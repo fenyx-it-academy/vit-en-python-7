@@ -1,0 +1,1000 @@
+Company1;$3;2021-10-03;USA;New York;Healthcare;Investor11
+Company2;$9;2021-12-03;China;Sydney;Automotive;Investor14
+Company3;$1;2021-10-14;USA;Sydney;Retail;Investor17
+Company4;$5;2021-01-28;UK;Mumbai;E-commerce;Investor15
+Company5;$8;2021-07-29;Australia;Beijing;Entertainment;Investor14
+Company6;$4;2021-10-29;India;Toronto;Healthcare;Investor20, Investor1, Investor18, Investor4, Investor16
+Company7;$6;2021-05-31;Australia;New York;Entertainment;Investor14
+Company8;$7;2021-08-05;China;Sydney;Healthcare;Investor2, Investor15, Investor11, Investor18, Investor13
+Company9;$2;2021-06-21;Germany;New York;E-commerce;Investor18, Investor16, Investor11, Investor7, Investor13
+Company10;$2;2021-07-19;India;Sydney;FinTech;Investor4, Investor2
+Company11;$5;2021-11-24;USA;Toronto;Entertainment;Investor6, Investor4, Investor2, Investor11, Investor1
+Company12;$9;2021-08-21;Australia;Toronto;Healthcare;Investor4, Investor7, Investor1
+Company13;$3;2021-04-16;Canada;Toronto;Technology;Investor1
+Company14;$6;2021-06-09;India;New York;E-commerce;Investor3, Investor15, Investor5, Investor6, Investor4
+Company15;$9;2021-09-08;Germany;Toronto;Technology;Investor16
+Company16;$7;2021-08-12;Germany;New York;Technology;Investor12, Investor2, Investor19
+Company17;$10;2021-07-28;India;New York;Healthcare;Investor7
+Company18;$10;2021-01-26;Australia;Beijing;Technology;Investor13, Investor8, Investor11
+Company19;$10;2021-09-06;China;New York;Technology;Investor3, Investor18
+Company20;$9;2021-09-09;India;Mumbai;Retail;Investor19, Investor12, Investor20
+Company21;$9;2021-04-05;India;London;Technology;Investor17, Investor10, Investor15, Investor2
+Company22;$2;2021-02-11;Australia;New York;Entertainment;Investor9, Investor8, Investor7, Investor19
+Company23;$5;2021-06-11;UK;London;FinTech;Investor3
+Company24;$5;2021-10-15;Australia;Berlin;Healthcare;Investor17
+Company25;$4;2021-07-22;Germany;Beijing;Automotive;Investor12, Investor4, Investor10
+Company26;$4;2021-03-07;India;Sydney;Healthcare;Investor7, Investor11, Investor20
+Company27;$7;2021-02-17;Australia;London;Automotive;Investor11, Investor6
+Company28;$10;2021-11-27;Australia;New York;Entertainment;Investor1
+Company29;$6;2021-02-24;Australia;Toronto;Healthcare;Investor16, Investor15, Investor9, Investor7, Investor2
+Company30;$10;2021-01-18;Australia;Toronto;Technology;Investor14, Investor10, Investor2, Investor9, Investor12
+Company31;$6;2021-09-04;China;Toronto;Entertainment;Investor9, Investor14
+Company32;$10;2021-06-03;USA;London;Entertainment;Investor14, Investor1, Investor20
+Company33;$8;2021-06-10;Australia;Beijing;Automotive;Investor11, Investor12, Investor7, Investor20
+Company34;$9;2021-10-02;Australia;Berlin;E-commerce;Investor9, Investor7, Investor3
+Company35;$2;2021-09-08;Australia;Berlin;Automotive;Investor16, Investor20, Investor6, Investor13
+Company36;$10;2021-04-16;USA;London;E-commerce;Investor4, Investor16
+Company37;$6;2021-01-15;Australia;Toronto;Retail;Investor13, Investor10, Investor18, Investor3, Investor6
+Company38;$10;2021-03-11;Canada;Sydney;Technology;Investor9
+Company39;$9;2021-03-02;China;Beijing;Entertainment;Investor13, Investor1, Investor18
+Company40;$9;2021-10-28;China;Mumbai;Automotive;Investor1, Investor2, Investor13, Investor9
+Company41;$6;2021-02-14;Australia;New York;Automotive;Investor5, Investor17, Investor8, Investor18, Investor19
+Company42;$5;2021-04-24;India;Beijing;Healthcare;Investor3, Investor1, Investor6
+Company43;$1;2021-05-09;Australia;Berlin;FinTech;Investor18, Investor14
+Company44;$7;2021-02-10;China;Beijing;Healthcare;Investor17, Investor6, Investor1, Investor7, Investor16
+Company45;$5;2021-06-30;China;Toronto;Healthcare;Investor5, Investor11, Investor6, Investor19
+Company46;$10;2021-03-04;USA;Mumbai;Healthcare;Investor13, Investor14, Investor7, Investor12
+Company47;$9;2021-09-19;China;New York;Entertainment;Investor20, Investor6
+Company48;$10;2021-11-24;India;Beijing;Entertainment;Investor7, Investor19, Investor20, Investor16
+Company49;$3;2021-11-20;India;Berlin;Technology;Investor13, Investor20, Investor11
+Company50;$5;2021-02-17;Germany;London;Automotive;Investor20, Investor13, Investor16, Investor7
+Company51;$2;2021-11-30;Canada;Sydney;Retail;Investor4, Investor2, Investor3, Investor5
+Company52;$2;2021-12-13;UK;New York;E-commerce;Investor17, Investor7, Investor6, Investor18, Investor1
+Company53;$8;2021-03-29;UK;Toronto;E-commerce;Investor19
+Company54;$9;2021-02-11;India;Mumbai;Entertainment;Investor9, Investor3, Investor16, Investor11
+Company55;$3;2021-04-28;Germany;Beijing;Entertainment;Investor20, Investor8, Investor15, Investor12
+Company56;$5;2021-02-26;USA;Sydney;E-commerce;Investor4
+Company57;$7;2021-11-22;Canada;Sydney;E-commerce;Investor16
+Company58;$1;2021-04-16;India;London;FinTech;Investor5
+Company59;$4;2021-06-29;Germany;Berlin;Retail;Investor16, Investor2, Investor4, Investor8
+Company60;$9;2021-12-21;Australia;Sydney;Retail;Investor9
+Company61;$5;2021-03-16;Germany;London;Healthcare;Investor16
+Company62;$1;2021-08-14;Canada;Sydney;FinTech;Investor18, Investor20, Investor19
+Company63;$3;2021-02-20;Canada;Mumbai;FinTech;Investor16, Investor3, Investor11, Investor5
+Company64;$2;2021-11-18;Australia;Beijing;FinTech;Investor7, Investor2
+Company65;$10;2021-07-19;India;Sydney;Automotive;Investor20, Investor12, Investor19
+Company66;$1;2021-05-13;Australia;Sydney;FinTech;Investor13, Investor5, Investor7
+Company67;$9;2021-09-22;Canada;New York;Technology;Investor13, Investor7, Investor5, Investor6, Investor18
+Company68;$7;2021-07-04;USA;Sydney;Automotive;Investor4, Investor16
+Company69;$1;2021-12-04;USA;Berlin;Healthcare;Investor3, Investor20, Investor1, Investor12
+Company70;$6;2021-11-23;Germany;Toronto;Technology;Investor12, Investor1, Investor2
+Company71;$7;2021-01-19;USA;New York;Retail;Investor7, Investor13, Investor16, Investor3, Investor12
+Company72;$2;2021-08-26;India;London;Technology;Investor12, Investor20
+Company73;$2;2021-07-01;China;New York;FinTech;Investor1, Investor11, Investor10, Investor18
+Company74;$7;2021-07-27;India;London;Automotive;Investor16, Investor4, Investor10, Investor18
+Company75;$1;2021-10-04;UK;Sydney;Technology;Investor7, Investor13, Investor20, Investor10
+Company76;$4;2021-11-16;USA;New York;Technology;Investor17, Investor16, Investor18, Investor9
+Company77;$3;2021-09-03;China;New York;FinTech;Investor15, Investor17, Investor13, Investor9, Investor19
+Company78;$6;2021-10-26;China;Toronto;FinTech;Investor6
+Company79;$2;2021-08-09;India;Berlin;Healthcare;Investor17, Investor11, Investor3, Investor1, Investor8
+Company80;$9;2021-05-29;Canada;Beijing;Technology;Investor11
+Company81;$5;2021-05-19;USA;Sydney;Technology;Investor14, Investor17, Investor10, Investor5, Investor4
+Company82;$8;2021-08-09;USA;London;Healthcare;Investor12
+Company83;$10;2021-04-26;China;Sydney;Healthcare;Investor9
+Company84;$7;2021-11-23;UK;London;Entertainment;Investor9
+Company85;$2;2021-10-09;USA;Toronto;Retail;Investor10, Investor11, Investor20, Investor19, Investor8
+Company86;$4;2021-06-02;China;Toronto;Entertainment;Investor11, Investor9, Investor19
+Company87;$4;2021-09-21;Australia;Beijing;FinTech;Investor18, Investor17, Investor3, Investor6
+Company88;$4;2021-03-05;UK;Berlin;FinTech;Investor17, Investor8, Investor18, Investor9, Investor10
+Company89;$10;2021-01-31;USA;Mumbai;Retail;Investor12, Investor4
+Company90;$4;2021-10-03;China;Toronto;FinTech;Investor4, Investor8, Investor5, Investor20
+Company91;$8;2021-11-01;Germany;London;FinTech;Investor8
+Company92;$4;2021-05-17;Australia;Mumbai;FinTech;Investor3, Investor16, Investor5, Investor7, Investor12
+Company93;$8;2021-11-06;Germany;Mumbai;Technology;Investor2, Investor1, Investor3
+Company94;$1;2021-09-03;China;London;Automotive;Investor20
+Company95;$9;2021-01-30;Germany;Mumbai;Automotive;Investor2, Investor20, Investor6, Investor13, Investor4
+Company96;$3;2021-09-16;Germany;New York;Healthcare;Investor18, Investor14, Investor7
+Company97;$4;2021-08-13;China;Toronto;E-commerce;Investor6, Investor3, Investor17
+Company98;$9;2021-05-29;China;New York;Technology;Investor12, Investor16, Investor11, Investor9, Investor13
+Company99;$8;2021-08-09;Australia;Sydney;Entertainment;Investor9, Investor17, Investor13, Investor6, Investor7
+Company100;$7;2021-07-23;Germany;London;FinTech;Investor13, Investor17, Investor3, Investor8
+Company101;$7;2021-09-01;USA;New York;Automotive;Investor17, Investor18, Investor16, Investor20, Investor3
+Company102;$9;2021-05-07;UK;Beijing;E-commerce;Investor3, Investor13, Investor9, Investor6, Investor7
+Company103;$1;2021-01-03;Germany;Berlin;Retail;Investor11
+Company104;$1;2021-04-30;Australia;New York;Technology;Investor5, Investor4
+Company105;$2;2021-07-04;Germany;New York;Technology;Investor1, Investor12, Investor18
+Company106;$5;2021-12-08;USA;Sydney;Healthcare;Investor16, Investor7, Investor11, Investor14, Investor17
+Company107;$9;2021-09-08;China;New York;Technology;Investor15, Investor11, Investor9
+Company108;$8;2021-01-12;China;Beijing;Automotive;Investor17, Investor19, Investor3, Investor9, Investor1
+Company109;$7;2021-01-07;Canada;Mumbai;E-commerce;Investor7, Investor12, Investor10, Investor20, Investor19
+Company110;$2;2021-08-06;USA;Berlin;Entertainment;Investor14
+Company111;$1;2021-05-27;UK;New York;Entertainment;Investor2
+Company112;$6;2021-05-15;China;London;Technology;Investor6
+Company113;$3;2021-05-06;Germany;Berlin;Entertainment;Investor8
+Company114;$1;2021-04-29;Germany;Berlin;Technology;Investor16, Investor15, Investor3
+Company115;$10;2021-06-22;USA;London;Healthcare;Investor9, Investor18
+Company116;$4;2021-03-17;China;Mumbai;E-commerce;Investor4, Investor14
+Company117;$4;2021-03-01;Australia;Berlin;Entertainment;Investor17, Investor9, Investor11, Investor15, Investor14
+Company118;$8;2021-12-03;India;New York;FinTech;Investor17, Investor18
+Company119;$5;2021-12-30;Australia;London;Technology;Investor6, Investor8, Investor18, Investor2, Investor20
+Company120;$5;2021-06-20;UK;Berlin;E-commerce;Investor4
+Company121;$5;2021-09-07;Canada;London;Entertainment;Investor4, Investor19
+Company122;$1;2021-01-31;Canada;Berlin;Automotive;Investor9
+Company123;$1;2021-02-28;USA;Mumbai;Technology;Investor8, Investor10
+Company124;$2;2021-05-25;China;Berlin;E-commerce;Investor10, Investor9, Investor8
+Company125;$5;2021-07-29;India;Toronto;FinTech;Investor5, Investor16, Investor1, Investor4
+Company126;$4;2021-07-30;USA;Sydney;Entertainment;Investor16, Investor11, Investor9, Investor6
+Company127;$8;2021-08-23;India;Toronto;Healthcare;Investor17
+Company128;$9;2021-04-15;Australia;Toronto;E-commerce;Investor5
+Company129;$4;2021-01-31;China;Sydney;Entertainment;Investor10, Investor13, Investor7, Investor17
+Company130;$7;2021-10-15;Germany;Sydney;Healthcare;Investor14, Investor5
+Company131;$8;2021-01-28;UK;New York;Automotive;Investor18, Investor19, Investor7, Investor10, Investor14
+Company132;$1;2021-07-04;Australia;Beijing;Technology;Investor9, Investor4
+Company133;$6;2021-02-19;India;Beijing;FinTech;Investor6, Investor19
+Company134;$10;2021-09-22;India;Mumbai;E-commerce;Investor8, Investor2, Investor15
+Company135;$6;2021-12-01;China;Sydney;Entertainment;Investor5, Investor19, Investor10, Investor4, Investor16
+Company136;$9;2021-01-11;Australia;Sydney;Technology;Investor3, Investor12, Investor18, Investor19
+Company137;$7;2021-07-23;Germany;Beijing;Retail;Investor10, Investor5, Investor11, Investor17, Investor3
+Company138;$7;2021-10-16;USA;New York;E-commerce;Investor14, Investor18, Investor5
+Company139;$7;2021-08-14;China;Mumbai;FinTech;Investor17, Investor5
+Company140;$5;2021-07-06;Australia;Berlin;Retail;Investor13, Investor11, Investor1, Investor6
+Company141;$3;2021-07-30;Australia;Toronto;Technology;Investor2, Investor8, Investor10, Investor18
+Company142;$3;2021-11-21;Germany;London;Healthcare;Investor5
+Company143;$4;2021-02-05;UK;Berlin;Healthcare;Investor1, Investor11, Investor10
+Company144;$1;2021-03-27;USA;London;Entertainment;Investor13, Investor2, Investor20, Investor3, Investor4
+Company145;$3;2021-02-02;Germany;Berlin;E-commerce;Investor8
+Company146;$6;2021-11-26;USA;New York;Automotive;Investor2, Investor11, Investor15, Investor5
+Company147;$1;2021-01-10;Australia;New York;Retail;Investor17, Investor15, Investor2, Investor6, Investor5
+Company148;$1;2021-03-08;China;London;Retail;Investor4
+Company149;$1;2021-03-24;China;Toronto;Retail;Investor2, Investor12
+Company150;$2;2021-03-31;Germany;Mumbai;Technology;Investor7, Investor3, Investor16, Investor9
+Company151;$7;2021-04-20;Canada;New York;FinTech;Investor3, Investor16, Investor17, Investor14
+Company152;$1;2021-02-19;Germany;Beijing;Healthcare;Investor17, Investor9
+Company153;$5;2021-04-27;India;Mumbai;Retail;Investor10, Investor15
+Company154;$4;2021-07-23;USA;London;Healthcare;Investor7, Investor15, Investor8, Investor20
+Company155;$4;2021-01-12;Australia;Beijing;E-commerce;Investor17, Investor1, Investor19, Investor12
+Company156;$2;2021-08-27;Australia;New York;Healthcare;Investor20, Investor11
+Company157;$7;2021-08-08;Australia;Mumbai;Automotive;Investor11
+Company158;$2;2021-02-16;China;Mumbai;E-commerce;Investor12, Investor10, Investor7, Investor3
+Company159;$1;2021-01-09;Germany;Beijing;Healthcare;Investor8, Investor11, Investor6, Investor17, Investor1
+Company160;$10;2021-11-25;Canada;Berlin;Healthcare;Investor18
+Company161;$10;2021-08-06;China;New York;Retail;Investor18, Investor3, Investor8, Investor17, Investor2
+Company162;$4;2021-04-06;Australia;Sydney;FinTech;Investor17, Investor6, Investor18, Investor19
+Company163;$4;2021-12-01;China;Toronto;Technology;Investor15, Investor9, Investor18, Investor11, Investor6
+Company164;$2;2021-02-01;USA;Mumbai;Technology;Investor12, Investor5, Investor18, Investor10, Investor20
+Company165;$7;2021-03-17;Germany;Mumbai;Retail;Investor3, Investor9, Investor1, Investor19, Investor20
+Company166;$4;2021-04-07;China;Beijing;Retail;Investor2, Investor20
+Company167;$7;2021-03-25;Australia;Berlin;Retail;Investor12, Investor18, Investor14
+Company168;$4;2021-05-24;China;Beijing;Healthcare;Investor5
+Company169;$1;2021-02-24;India;Sydney;Retail;Investor18, Investor20, Investor6
+Company170;$6;2021-06-24;India;New York;E-commerce;Investor3, Investor2, Investor1, Investor19, Investor16
+Company171;$6;2021-05-29;UK;Beijing;Retail;Investor9
+Company172;$9;2021-06-18;USA;Mumbai;Automotive;Investor17, Investor14
+Company173;$2;2021-02-04;UK;Sydney;Technology;Investor19, Investor1
+Company174;$4;2021-06-15;Australia;Mumbai;FinTech;Investor4, Investor2, Investor10, Investor3, Investor20
+Company175;$8;2021-10-03;Australia;Berlin;Retail;Investor3, Investor14
+Company176;$6;2021-02-16;Germany;Beijing;FinTech;Investor10, Investor13, Investor5, Investor19
+Company177;$7;2021-03-24;Germany;New York;Retail;Investor11
+Company178;$10;2021-05-15;UK;Beijing;Automotive;Investor10
+Company179;$3;2021-02-16;Australia;Sydney;Technology;Investor10
+Company180;$2;2021-03-11;UK;Berlin;Healthcare;Investor15, Investor6, Investor14, Investor10, Investor4
+Company181;$6;2021-06-03;China;Beijing;Healthcare;Investor17
+Company182;$4;2021-08-29;Canada;Beijing;E-commerce;Investor8, Investor17, Investor19
+Company183;$7;2021-04-20;Germany;Sydney;Retail;Investor9, Investor11, Investor17, Investor2
+Company184;$5;2021-12-22;UK;London;E-commerce;Investor14, Investor11, Investor9
+Company185;$1;2021-02-24;Canada;New York;Technology;Investor6, Investor17, Investor2, Investor4
+Company186;$2;2021-01-20;USA;Mumbai;Entertainment;Investor6, Investor2, Investor3, Investor15
+Company187;$6;2021-01-12;Canada;Berlin;FinTech;Investor5
+Company188;$6;2021-03-18;USA;London;Entertainment;Investor16, Investor19
+Company189;$2;2021-07-23;Germany;Sydney;E-commerce;Investor10, Investor13, Investor16
+Company190;$5;2021-06-07;USA;Mumbai;Automotive;Investor20, Investor10, Investor13
+Company191;$10;2021-10-25;Australia;New York;E-commerce;Investor5, Investor20, Investor19, Investor10
+Company192;$9;2021-07-13;Australia;Berlin;E-commerce;Investor6
+Company193;$3;2021-09-07;UK;London;E-commerce;Investor4
+Company194;$8;2021-11-11;UK;New York;E-commerce;Investor16, Investor19, Investor12, Investor20
+Company195;$10;2021-12-10;Canada;Toronto;Technology;Investor4, Investor2
+Company196;$7;2021-01-13;Germany;London;Technology;Investor2
+Company197;$10;2021-10-01;Canada;Toronto;Retail;Investor17, Investor15, Investor2, Investor8
+Company198;$10;2021-01-20;Australia;Beijing;Entertainment;Investor17, Investor7
+Company199;$9;2021-06-29;USA;Toronto;Technology;Investor1, Investor4, Investor10, Investor12
+Company200;$7;2021-01-10;Canada;New York;FinTech;Investor8, Investor11, Investor2, Investor6, Investor19
+Company201;$5;2021-04-16;Australia;Sydney;Healthcare;Investor7
+Company202;$4;2021-01-13;Australia;New York;FinTech;Investor19, Investor5, Investor16, Investor18
+Company203;$6;2021-10-02;UK;Beijing;Healthcare;Investor4, Investor12, Investor11
+Company204;$5;2021-06-20;USA;Berlin;Entertainment;Investor15
+Company205;$6;2021-05-26;Australia;New York;Automotive;Investor14, Investor9
+Company206;$2;2021-08-11;Australia;London;FinTech;Investor15, Investor1, Investor8, Investor13
+Company207;$5;2021-10-21;UK;Mumbai;Retail;Investor20, Investor5, Investor1
+Company208;$5;2021-05-06;Australia;Sydney;FinTech;Investor13, Investor11, Investor4, Investor2
+Company209;$7;2021-05-19;China;Toronto;Healthcare;Investor5, Investor18
+Company210;$2;2021-04-13;China;Beijing;Entertainment;Investor2, Investor5
+Company211;$5;2021-03-18;India;London;Automotive;Investor15, Investor5
+Company212;$4;2021-07-27;Australia;Toronto;FinTech;Investor16, Investor1, Investor17
+Company213;$1;2021-03-08;UK;Beijing;Entertainment;Investor5, Investor18, Investor7, Investor11, Investor19
+Company214;$9;2021-02-19;Germany;Toronto;Technology;Investor14, Investor11, Investor10, Investor9, Investor12
+Company215;$1;2021-02-24;Germany;Mumbai;Technology;Investor11, Investor6
+Company216;$9;2021-08-19;China;Mumbai;Entertainment;Investor1, Investor4, Investor14, Investor7
+Company217;$1;2021-10-12;China;Beijing;Retail;Investor11, Investor8, Investor7, Investor2
+Company218;$2;2021-11-19;Germany;Mumbai;FinTech;Investor5, Investor13, Investor6
+Company219;$1;2021-04-27;UK;New York;E-commerce;Investor14, Investor3, Investor18, Investor1, Investor12
+Company220;$1;2021-03-02;India;Toronto;Automotive;Investor10, Investor5, Investor20, Investor17
+Company221;$3;2021-09-19;Canada;Mumbai;Retail;Investor10
+Company222;$8;2021-12-16;USA;Beijing;Retail;Investor16, Investor8, Investor4, Investor2
+Company223;$9;2021-10-17;Germany;London;Entertainment;Investor7, Investor15, Investor4
+Company224;$6;2021-01-12;Canada;New York;Technology;Investor10, Investor13, Investor17
+Company225;$1;2021-03-06;China;Beijing;Healthcare;Investor5, Investor11, Investor6, Investor4, Investor15
+Company226;$7;2021-08-04;UK;Mumbai;Automotive;Investor18, Investor6, Investor16
+Company227;$7;2021-06-07;China;Sydney;Technology;Investor19
+Company228;$8;2021-03-07;India;London;E-commerce;Investor13
+Company229;$4;2021-05-19;India;Beijing;Retail;Investor2, Investor11, Investor9, Investor20
+Company230;$8;2021-09-09;USA;Sydney;FinTech;Investor12, Investor3, Investor8
+Company231;$10;2021-11-07;China;New York;Retail;Investor9, Investor4, Investor6, Investor1, Investor19
+Company232;$4;2021-12-11;China;Beijing;Healthcare;Investor4, Investor1, Investor14, Investor17
+Company233;$3;2021-07-17;Canada;London;Technology;Investor7
+Company234;$9;2021-08-10;USA;Toronto;Healthcare;Investor6, Investor16, Investor11
+Company235;$10;2021-08-11;Germany;Mumbai;Retail;Investor5, Investor17, Investor6, Investor12, Investor10
+Company236;$3;2021-10-25;Germany;Mumbai;Entertainment;Investor19, Investor8, Investor11, Investor20, Investor9
+Company237;$10;2021-08-03;USA;Beijing;Technology;Investor16, Investor9, Investor6, Investor1, Investor17
+Company238;$6;2021-03-29;Germany;London;Healthcare;Investor9
+Company239;$10;2021-10-20;Germany;Sydney;FinTech;Investor16, Investor6
+Company240;$6;2021-10-01;Canada;New York;FinTech;Investor5, Investor16, Investor1
+Company241;$10;2021-12-03;USA;London;Healthcare;Investor13, Investor6, Investor7, Investor18, Investor1
+Company242;$9;2021-01-20;China;Toronto;Entertainment;Investor2
+Company243;$9;2021-03-17;Germany;London;FinTech;Investor18, Investor20
+Company244;$2;2021-06-29;UK;New York;E-commerce;Investor15
+Company245;$10;2021-04-28;India;Toronto;E-commerce;Investor20, Investor1, Investor16, Investor10
+Company246;$10;2021-09-03;China;Toronto;FinTech;Investor16, Investor9
+Company247;$5;2021-11-26;UK;London;FinTech;Investor3
+Company248;$7;2021-06-03;India;Toronto;E-commerce;Investor8
+Company249;$3;2021-02-28;China;Toronto;Healthcare;Investor8
+Company250;$9;2021-07-13;China;Mumbai;Healthcare;Investor7, Investor5, Investor8
+Company251;$6;2021-01-07;Canada;Toronto;Retail;Investor20, Investor1, Investor19
+Company252;$2;2021-02-02;Australia;Mumbai;FinTech;Investor13, Investor3
+Company253;$1;2021-12-14;India;Mumbai;Retail;Investor19, Investor18, Investor8, Investor2
+Company254;$1;2021-12-11;India;Toronto;Technology;Investor5, Investor3, Investor19, Investor10, Investor1
+Company255;$6;2021-11-15;Germany;London;Automotive;Investor13
+Company256;$6;2021-02-23;China;Toronto;FinTech;Investor11, Investor6, Investor18, Investor12
+Company257;$5;2021-06-26;Germany;Sydney;FinTech;Investor18, Investor13, Investor5
+Company258;$2;2021-05-02;UK;New York;Healthcare;Investor7, Investor9, Investor14, Investor8, Investor18
+Company259;$5;2021-05-12;Canada;London;Automotive;Investor5, Investor19, Investor1
+Company260;$4;2021-01-30;UK;Berlin;Technology;Investor6, Investor10
+Company261;$4;2021-11-28;Australia;Sydney;Automotive;Investor10, Investor4, Investor6, Investor5
+Company262;$9;2021-12-15;UK;London;E-commerce;Investor2, Investor16
+Company263;$9;2021-12-08;UK;New York;Retail;Investor16, Investor13, Investor15
+Company264;$3;2021-10-06;India;Beijing;Automotive;Investor4, Investor19, Investor18
+Company265;$10;2021-08-10;India;Sydney;Technology;Investor3, Investor10, Investor2, Investor5
+Company266;$4;2021-01-21;Australia;New York;FinTech;Investor10, Investor3, Investor1
+Company267;$7;2021-06-19;UK;Sydney;Entertainment;Investor4, Investor17, Investor13, Investor6, Investor8
+Company268;$9;2021-08-11;UK;London;Healthcare;Investor11, Investor1, Investor14, Investor8
+Company269;$2;2021-12-21;UK;Sydney;Automotive;Investor15
+Company270;$1;2021-05-07;Germany;Toronto;Retail;Investor17, Investor12, Investor6, Investor11, Investor1
+Company271;$1;2021-06-10;China;London;Healthcare;Investor8
+Company272;$3;2021-05-05;USA;Toronto;FinTech;Investor13
+Company273;$5;2021-05-10;Canada;New York;Technology;Investor20, Investor14, Investor2, Investor12, Investor17
+Company274;$9;2021-05-11;Canada;New York;E-commerce;Investor9, Investor17, Investor7
+Company275;$10;2021-09-21;Australia;Toronto;Technology;Investor8, Investor5, Investor19, Investor15
+Company276;$10;2021-10-13;Canada;London;FinTech;Investor13
+Company277;$8;2021-03-29;Germany;Sydney;Automotive;Investor15, Investor9
+Company278;$4;2021-06-22;Germany;New York;Entertainment;Investor3
+Company279;$10;2021-12-19;China;Beijing;FinTech;Investor8, Investor3, Investor10, Investor4
+Company280;$3;2021-08-16;UK;Sydney;Automotive;Investor19, Investor1, Investor17
+Company281;$6;2021-12-09;Australia;Beijing;E-commerce;Investor2, Investor7, Investor19, Investor1, Investor5
+Company282;$1;2021-07-04;Germany;Mumbai;Technology;Investor1, Investor9
+Company283;$4;2021-10-29;UK;Sydney;Retail;Investor11, Investor5, Investor8
+Company284;$2;2021-01-24;Australia;Toronto;Retail;Investor13, Investor18, Investor8, Investor16, Investor4
+Company285;$9;2021-10-20;UK;Sydney;Technology;Investor20, Investor4, Investor14
+Company286;$3;2021-04-17;Canada;Berlin;Technology;Investor1, Investor12, Investor6
+Company287;$3;2021-06-25;UK;Mumbai;Automotive;Investor8, Investor18, Investor14
+Company288;$3;2021-01-03;Canada;Beijing;Entertainment;Investor9, Investor12, Investor10
+Company289;$5;2021-12-30;Canada;New York;Healthcare;Investor17, Investor10
+Company290;$6;2021-04-16;Australia;New York;Entertainment;Investor1, Investor14, Investor13, Investor11, Investor20
+Company291;$6;2021-11-03;Germany;London;E-commerce;Investor7, Investor12, Investor13, Investor1, Investor11
+Company292;$4;2021-04-20;Germany;New York;Entertainment;Investor20, Investor4, Investor18
+Company293;$7;2021-01-25;Canada;Mumbai;Healthcare;Investor14, Investor15, Investor1, Investor2, Investor3
+Company294;$6;2021-09-17;China;Beijing;Automotive;Investor15, Investor4
+Company295;$5;2021-03-16;China;Mumbai;Technology;Investor10, Investor15, Investor12
+Company296;$6;2021-01-21;UK;Toronto;Healthcare;Investor16, Investor15, Investor7, Investor8
+Company297;$3;2021-04-25;Canada;Berlin;FinTech;Investor20, Investor11
+Company298;$3;2021-04-19;Australia;Toronto;Automotive;Investor7, Investor11, Investor20
+Company299;$5;2021-05-11;Germany;Mumbai;Healthcare;Investor19, Investor7, Investor8, Investor20, Investor10
+Company300;$1;2021-04-05;China;Beijing;Technology;Investor17, Investor2, Investor16, Investor15
+Company301;$9;2021-07-02;Australia;London;Retail;Investor5
+Company302;$9;2021-06-06;Australia;Sydney;Retail;Investor18
+Company303;$8;2021-08-08;China;Toronto;Entertainment;Investor16, Investor17, Investor6, Investor15
+Company304;$1;2021-03-23;Canada;Mumbai;Automotive;Investor19, Investor17, Investor7, Investor14, Investor11
+Company305;$7;2021-12-10;USA;Toronto;Automotive;Investor18
+Company306;$9;2021-06-15;USA;Beijing;E-commerce;Investor5, Investor18
+Company307;$1;2021-05-02;India;Berlin;Entertainment;Investor15, Investor8, Investor13, Investor2
+Company308;$8;2021-12-23;USA;Sydney;Automotive;Investor15, Investor4, Investor13
+Company309;$3;2021-02-11;China;Berlin;Automotive;Investor12, Investor20, Investor13, Investor5, Investor8
+Company310;$4;2021-03-09;Australia;Beijing;Retail;Investor16, Investor13, Investor6, Investor15
+Company311;$7;2021-10-27;Australia;London;Healthcare;Investor3, Investor9, Investor17
+Company312;$2;2021-08-15;Germany;New York;Technology;Investor4, Investor1, Investor2
+Company313;$7;2021-12-28;Australia;Toronto;Healthcare;Investor9, Investor8, Investor6
+Company314;$8;2021-01-22;Germany;Sydney;FinTech;Investor9, Investor17
+Company315;$4;2021-01-10;Canada;Mumbai;E-commerce;Investor6
+Company316;$3;2021-04-05;India;Mumbai;Healthcare;Investor10, Investor19, Investor5, Investor13, Investor16
+Company317;$2;2021-11-24;China;Toronto;Healthcare;Investor18, Investor2
+Company318;$2;2021-01-16;Canada;London;E-commerce;Investor14, Investor2, Investor1, Investor4, Investor6
+Company319;$7;2021-12-09;China;Toronto;Healthcare;Investor17, Investor4, Investor13, Investor18
+Company320;$9;2021-08-09;USA;Mumbai;E-commerce;Investor14, Investor11
+Company321;$7;2021-10-26;China;Mumbai;Retail;Investor20, Investor2
+Company322;$3;2021-08-16;USA;London;Automotive;Investor4, Investor2
+Company323;$2;2021-08-31;China;Beijing;FinTech;Investor3, Investor10
+Company324;$7;2021-02-02;China;Toronto;Automotive;Investor9, Investor8, Investor18, Investor17, Investor3
+Company325;$5;2021-10-06;UK;Toronto;Healthcare;Investor7, Investor5, Investor19
+Company326;$5;2021-12-30;Canada;Sydney;FinTech;Investor18, Investor17, Investor9, Investor10, Investor8
+Company327;$4;2021-07-21;UK;Berlin;Entertainment;Investor9, Investor4, Investor3
+Company328;$4;2021-07-04;Canada;Sydney;FinTech;Investor11, Investor6, Investor1, Investor20, Investor2
+Company329;$1;2021-08-05;Canada;Mumbai;Technology;Investor7, Investor19, Investor16, Investor4, Investor8
+Company330;$9;2021-01-16;USA;London;Entertainment;Investor16, Investor4, Investor5, Investor19
+Company331;$8;2021-05-06;USA;Beijing;Technology;Investor3, Investor1, Investor6
+Company332;$4;2021-08-25;India;Sydney;Automotive;Investor8, Investor6, Investor18, Investor4, Investor16
+Company333;$9;2021-12-12;China;Sydney;Healthcare;Investor7, Investor14, Investor18, Investor13, Investor20
+Company334;$5;2021-08-10;India;Mumbai;E-commerce;Investor16, Investor3, Investor11, Investor14, Investor12
+Company335;$6;2021-04-06;Canada;London;Automotive;Investor20, Investor1
+Company336;$2;2021-11-20;Germany;Sydney;Retail;Investor17, Investor14
+Company337;$10;2021-10-11;Germany;Toronto;Entertainment;Investor12, Investor1
+Company338;$9;2021-05-12;Australia;Sydney;Technology;Investor8, Investor6
+Company339;$1;2021-05-22;UK;Sydney;E-commerce;Investor11, Investor3, Investor12, Investor9, Investor14
+Company340;$9;2021-11-25;India;Toronto;Retail;Investor19
+Company341;$4;2021-02-04;USA;Sydney;FinTech;Investor11
+Company342;$4;2021-05-12;China;London;E-commerce;Investor16, Investor6, Investor9, Investor8
+Company343;$1;2021-06-12;Germany;Berlin;FinTech;Investor12, Investor3, Investor13, Investor18, Investor20
+Company344;$5;2021-11-08;China;Beijing;FinTech;Investor15, Investor13, Investor9, Investor14
+Company345;$2;2021-11-20;Canada;Berlin;Entertainment;Investor5
+Company346;$3;2021-03-12;Canada;Beijing;Technology;Investor3
+Company347;$7;2021-04-07;Canada;New York;Healthcare;Investor12, Investor2, Investor11, Investor3, Investor17
+Company348;$1;2021-05-26;India;Beijing;Retail;Investor4, Investor7, Investor20, Investor15
+Company349;$4;2021-02-27;UK;London;Healthcare;Investor3, Investor18, Investor6, Investor20, Investor12
+Company350;$1;2021-08-28;Australia;Berlin;FinTech;Investor13, Investor7, Investor9, Investor19, Investor11
+Company351;$4;2021-03-30;USA;London;Entertainment;Investor2
+Company352;$9;2021-08-09;China;Sydney;E-commerce;Investor14
+Company353;$3;2021-11-10;USA;New York;Retail;Investor7, Investor8, Investor4
+Company354;$4;2021-08-15;India;Toronto;Retail;Investor18, Investor9, Investor11, Investor15
+Company355;$10;2021-07-18;USA;London;Retail;Investor2
+Company356;$10;2021-08-14;USA;Toronto;Healthcare;Investor9
+Company357;$9;2021-04-01;Germany;London;FinTech;Investor7, Investor3, Investor4, Investor19, Investor1
+Company358;$2;2021-11-23;Canada;Sydney;Healthcare;Investor14, Investor6, Investor3, Investor4
+Company359;$1;2021-02-18;Germany;Berlin;Entertainment;Investor17, Investor19, Investor11
+Company360;$4;2021-03-14;Canada;Toronto;Retail;Investor14, Investor1
+Company361;$9;2021-04-07;USA;Mumbai;Entertainment;Investor15, Investor6, Investor14, Investor2
+Company362;$9;2021-10-23;China;London;Technology;Investor18
+Company363;$2;2021-11-06;Canada;Berlin;Technology;Investor4
+Company364;$8;2021-12-11;UK;Beijing;FinTech;Investor9, Investor18, Investor17, Investor10, Investor14
+Company365;$3;2021-12-30;USA;Sydney;Technology;Investor20
+Company366;$8;2021-03-23;Germany;London;E-commerce;Investor19
+Company367;$4;2021-02-25;USA;Beijing;E-commerce;Investor15, Investor19, Investor18
+Company368;$5;2021-04-25;India;Mumbai;FinTech;Investor6, Investor13, Investor8, Investor5
+Company369;$7;2021-08-19;USA;Beijing;FinTech;Investor11
+Company370;$8;2021-09-01;Australia;Toronto;Technology;Investor18, Investor6, Investor19, Investor8
+Company371;$1;2021-06-21;India;London;Entertainment;Investor5
+Company372;$9;2021-01-24;Canada;New York;Entertainment;Investor19, Investor16
+Company373;$2;2021-01-12;China;Beijing;E-commerce;Investor4, Investor13, Investor7, Investor14
+Company374;$1;2021-01-05;UK;London;Retail;Investor14, Investor13
+Company375;$10;2021-05-05;USA;Mumbai;Retail;Investor9
+Company376;$1;2021-06-23;Australia;Berlin;Entertainment;Investor9
+Company377;$10;2021-03-29;USA;Sydney;Technology;Investor3, Investor16, Investor7, Investor8
+Company378;$2;2021-09-13;China;Berlin;Retail;Investor15, Investor19, Investor11, Investor10
+Company379;$5;2021-04-20;Australia;New York;FinTech;Investor20
+Company380;$5;2021-09-22;Australia;Berlin;E-commerce;Investor11, Investor5, Investor6, Investor12, Investor2
+Company381;$10;2021-12-21;China;Beijing;Retail;Investor1, Investor6, Investor15, Investor8, Investor18
+Company382;$3;2021-05-27;China;Beijing;Retail;Investor9, Investor14
+Company383;$4;2021-09-18;Canada;Beijing;Entertainment;Investor11
+Company384;$7;2021-01-05;USA;New York;Healthcare;Investor18
+Company385;$5;2021-02-25;UK;Toronto;Entertainment;Investor16, Investor17, Investor12, Investor5
+Company386;$4;2021-09-26;Australia;Beijing;E-commerce;Investor18, Investor12
+Company387;$6;2021-10-26;China;Toronto;FinTech;Investor11, Investor12, Investor10, Investor8, Investor9
+Company388;$3;2021-01-22;Canada;London;Technology;Investor17, Investor10
+Company389;$7;2021-07-29;Germany;London;Technology;Investor20, Investor16, Investor7, Investor9, Investor15
+Company390;$5;2021-07-19;Canada;Mumbai;Automotive;Investor8, Investor19, Investor2, Investor18
+Company391;$2;2021-11-30;Canada;Beijing;FinTech;Investor3
+Company392;$4;2021-05-25;China;New York;Healthcare;Investor4
+Company393;$5;2021-03-14;China;Beijing;FinTech;Investor9, Investor11
+Company394;$9;2021-04-28;USA;Mumbai;Technology;Investor15, Investor16, Investor13, Investor12, Investor14
+Company395;$5;2021-10-12;Canada;New York;Automotive;Investor9, Investor6, Investor3, Investor13
+Company396;$10;2021-01-05;Canada;Berlin;FinTech;Investor17, Investor19, Investor2, Investor7, Investor18
+Company397;$9;2021-07-04;UK;Toronto;FinTech;Investor18, Investor9, Investor11, Investor14
+Company398;$8;2021-05-20;China;New York;FinTech;Investor6, Investor19, Investor12, Investor7
+Company399;$9;2021-05-22;India;New York;Entertainment;Investor7, Investor2, Investor4, Investor15, Investor8
+Company400;$4;2021-10-09;Germany;New York;FinTech;Investor9, Investor12
+Company401;$10;2021-11-30;UK;Mumbai;FinTech;Investor17, Investor18, Investor13, Investor16
+Company402;$1;2021-03-22;UK;Mumbai;E-commerce;Investor14, Investor9, Investor7, Investor15
+Company403;$2;2021-02-23;UK;London;Automotive;Investor17, Investor7
+Company404;$5;2021-03-30;China;Toronto;FinTech;Investor17, Investor11, Investor4
+Company405;$2;2021-01-04;India;Mumbai;Technology;Investor7, Investor13, Investor14, Investor18
+Company406;$8;2021-05-22;Germany;Toronto;Automotive;Investor5
+Company407;$1;2021-05-07;China;Berlin;Retail;Investor1
+Company408;$8;2021-08-05;China;Berlin;Retail;Investor14, Investor18, Investor9, Investor8
+Company409;$6;2021-02-09;Canada;London;Technology;Investor10, Investor5, Investor1, Investor2, Investor8
+Company410;$2;2021-01-27;Australia;New York;Retail;Investor11, Investor9, Investor12, Investor15
+Company411;$6;2021-07-17;UK;Mumbai;FinTech;Investor4, Investor9, Investor19, Investor18, Investor6
+Company412;$4;2021-03-21;Germany;Toronto;Technology;Investor2, Investor10, Investor12, Investor5
+Company413;$1;2021-02-04;China;Beijing;FinTech;Investor8, Investor13
+Company414;$7;2021-01-02;China;Beijing;Retail;Investor8, Investor9, Investor11
+Company415;$8;2021-04-09;China;London;Retail;Investor6, Investor14, Investor13
+Company416;$2;2021-04-19;Canada;Mumbai;Healthcare;Investor19
+Company417;$1;2021-06-25;Germany;London;E-commerce;Investor6, Investor10, Investor1, Investor5, Investor2
+Company418;$3;2021-11-10;China;New York;Entertainment;Investor17, Investor16, Investor2, Investor15
+Company419;$3;2021-07-22;China;Berlin;FinTech;Investor1, Investor16
+Company420;$9;2021-06-08;China;Beijing;Retail;Investor1, Investor19, Investor12
+Company421;$6;2021-05-10;India;Beijing;Automotive;Investor15, Investor13, Investor12, Investor20, Investor5
+Company422;$9;2021-04-12;China;Beijing;FinTech;Investor15
+Company423;$2;2021-07-02;Canada;Mumbai;FinTech;Investor16, Investor17
+Company424;$6;2021-06-11;Germany;New York;Retail;Investor8, Investor4
+Company425;$5;2021-05-18;UK;Beijing;Automotive;Investor11, Investor9, Investor20
+Company426;$8;2021-05-27;Australia;Mumbai;Entertainment;Investor6, Investor10, Investor12
+Company427;$5;2021-12-02;Australia;Beijing;FinTech;Investor2, Investor17, Investor16, Investor19
+Company428;$5;2021-01-03;China;London;E-commerce;Investor13, Investor11, Investor3, Investor19, Investor15
+Company429;$2;2021-12-01;China;Toronto;Retail;Investor13, Investor17, Investor3
+Company430;$1;2021-10-14;Australia;Beijing;Automotive;Investor9, Investor13, Investor11
+Company431;$7;2021-10-25;UK;Sydney;Retail;Investor20, Investor13, Investor15, Investor5
+Company432;$9;2021-04-20;Germany;New York;Healthcare;Investor19, Investor12, Investor1, Investor14
+Company433;$7;2021-09-10;Germany;New York;Healthcare;Investor13, Investor16, Investor19, Investor4, Investor14
+Company434;$3;2021-06-09;Australia;Sydney;Retail;Investor8, Investor13, Investor14, Investor9, Investor6
+Company435;$5;2021-02-22;Canada;Sydney;Healthcare;Investor20, Investor18
+Company436;$1;2021-07-24;UK;Berlin;Technology;Investor12
+Company437;$1;2021-04-10;USA;Beijing;FinTech;Investor15, Investor7, Investor16, Investor14
+Company438;$1;2021-03-05;Australia;Sydney;Entertainment;Investor13, Investor16
+Company439;$8;2021-11-26;India;Berlin;Healthcare;Investor6, Investor18, Investor19
+Company440;$10;2021-06-21;China;Berlin;Retail;Investor4, Investor10, Investor13, Investor2, Investor8
+Company441;$1;2021-03-15;Canada;London;Entertainment;Investor17, Investor13, Investor9, Investor12
+Company442;$8;2021-06-01;Germany;Beijing;Healthcare;Investor9, Investor15, Investor13, Investor6
+Company443;$5;2021-03-26;Australia;Beijing;Technology;Investor6, Investor17
+Company444;$6;2021-11-17;India;Berlin;Automotive;Investor19, Investor15, Investor13
+Company445;$3;2021-11-29;Germany;New York;Entertainment;Investor2, Investor10, Investor19, Investor18
+Company446;$1;2021-04-22;India;Sydney;Entertainment;Investor13
+Company447;$10;2021-08-22;USA;Beijing;Technology;Investor6
+Company448;$3;2021-03-23;Germany;Beijing;Entertainment;Investor15, Investor20, Investor10
+Company449;$6;2021-01-13;UK;Berlin;Technology;Investor12, Investor15
+Company450;$4;2021-01-31;Australia;Toronto;Retail;Investor4, Investor8
+Company451;$3;2021-07-20;USA;London;FinTech;Investor12, Investor14, Investor3
+Company452;$5;2021-05-15;Germany;Mumbai;Healthcare;Investor7, Investor8
+Company453;$7;2021-05-25;UK;Sydney;Automotive;Investor16, Investor8, Investor5, Investor11, Investor2
+Company454;$8;2021-08-03;UK;Beijing;Entertainment;Investor13, Investor19, Investor16
+Company455;$4;2021-05-20;UK;Toronto;Retail;Investor7, Investor1, Investor18
+Company456;$8;2021-03-27;India;New York;Automotive;Investor10, Investor13, Investor9, Investor12
+Company457;$8;2021-09-29;Canada;New York;Automotive;Investor12, Investor8, Investor20, Investor13
+Company458;$1;2021-12-01;USA;Beijing;Automotive;Investor20, Investor13, Investor4, Investor5
+Company459;$2;2021-12-23;India;New York;Entertainment;Investor5, Investor1, Investor4
+Company460;$3;2021-08-21;USA;New York;Technology;Investor6, Investor16, Investor12, Investor17
+Company461;$9;2021-02-27;Canada;Berlin;Healthcare;Investor6, Investor3
+Company462;$7;2021-02-02;Canada;New York;Entertainment;Investor8, Investor11
+Company463;$7;2021-02-13;USA;Sydney;Healthcare;Investor11, Investor18, Investor12
+Company464;$5;2021-02-08;India;London;Automotive;Investor11, Investor18
+Company465;$7;2021-05-14;UK;Berlin;Entertainment;Investor14, Investor18, Investor1, Investor11, Investor17
+Company466;$9;2021-02-08;Germany;Toronto;FinTech;Investor18, Investor6, Investor7, Investor8
+Company467;$7;2021-10-11;China;New York;Technology;Investor12
+Company468;$4;2021-08-06;Germany;Beijing;E-commerce;Investor6, Investor19, Investor8, Investor13
+Company469;$10;2021-11-01;Australia;New York;FinTech;Investor20, Investor7, Investor11, Investor16
+Company470;$9;2021-04-27;Germany;London;E-commerce;Investor5, Investor10, Investor20, Investor17, Investor13
+Company471;$9;2021-09-23;Australia;Toronto;E-commerce;Investor20, Investor2, Investor3, Investor10
+Company472;$10;2021-05-18;UK;New York;Healthcare;Investor20
+Company473;$2;2021-06-27;Germany;New York;E-commerce;Investor5, Investor10, Investor11
+Company474;$6;2021-11-09;UK;Mumbai;Technology;Investor6, Investor18
+Company475;$8;2021-04-26;Canada;New York;Healthcare;Investor3, Investor19
+Company476;$7;2021-09-27;UK;Toronto;Automotive;Investor1
+Company477;$8;2021-11-11;Germany;Sydney;Technology;Investor8, Investor17
+Company478;$4;2021-08-03;China;New York;Automotive;Investor9, Investor18, Investor19, Investor10
+Company479;$7;2021-01-16;Canada;Toronto;Healthcare;Investor12, Investor11, Investor7, Investor4
+Company480;$6;2021-05-26;UK;New York;Technology;Investor8, Investor18, Investor10
+Company481;$5;2021-03-15;China;London;Healthcare;Investor1, Investor16
+Company482;$3;2021-01-26;Germany;London;Automotive;Investor20
+Company483;$3;2021-06-16;USA;Beijing;E-commerce;Investor13, Investor16, Investor5, Investor4, Investor1
+Company484;$5;2021-09-24;UK;Beijing;Healthcare;Investor7, Investor4, Investor5, Investor3, Investor9
+Company485;$3;2021-09-27;China;Beijing;FinTech;Investor8, Investor1, Investor13
+Company486;$3;2021-10-30;Australia;Mumbai;Healthcare;Investor3, Investor7, Investor9
+Company487;$7;2021-03-22;Canada;New York;Retail;Investor11, Investor16, Investor10, Investor17
+Company488;$7;2021-07-02;India;New York;Retail;Investor9
+Company489;$3;2021-02-27;UK;New York;FinTech;Investor18, Investor15, Investor5, Investor8, Investor12
+Company490;$2;2021-06-04;Germany;New York;Retail;Investor17, Investor7, Investor8, Investor11, Investor2
+Company491;$9;2021-06-21;India;New York;Entertainment;Investor10
+Company492;$8;2021-12-07;China;Toronto;Technology;Investor3, Investor5
+Company493;$2;2021-09-07;China;Beijing;Entertainment;Investor11, Investor17
+Company494;$1;2021-12-14;India;New York;E-commerce;Investor3, Investor4, Investor10, Investor18, Investor15
+Company495;$2;2021-12-22;UK;Berlin;E-commerce;Investor14
+Company496;$3;2021-08-11;Germany;Mumbai;FinTech;Investor20, Investor2, Investor7, Investor13
+Company497;$4;2021-11-26;Canada;Beijing;FinTech;Investor14
+Company498;$6;2021-03-19;India;Beijing;Technology;Investor20, Investor19
+Company499;$1;2021-02-14;Australia;Sydney;Retail;Investor14, Investor9, Investor2, Investor6
+Company500;$1;2021-12-12;Germany;Beijing;E-commerce;Investor20, Investor9, Investor7, Investor3, Investor2
+Company501;$6;2021-07-24;Canada;Toronto;Healthcare;Investor7, Investor6, Investor12, Investor19
+Company502;$3;2021-02-05;Germany;London;E-commerce;Investor1, Investor19, Investor4
+Company503;$5;2021-07-19;China;Mumbai;Retail;Investor2, Investor15
+Company504;$10;2021-06-26;Canada;Sydney;Automotive;Investor7, Investor6, Investor12, Investor2, Investor15
+Company505;$2;2021-03-19;Germany;Toronto;Automotive;Investor3
+Company506;$2;2021-05-15;UK;New York;Healthcare;Investor1, Investor9, Investor7, Investor18
+Company507;$3;2021-10-23;China;London;E-commerce;Investor2, Investor19, Investor20
+Company508;$9;2021-11-24;China;Mumbai;Technology;Investor4
+Company509;$7;2021-07-28;India;London;Technology;Investor7
+Company510;$5;2021-05-26;China;New York;Technology;Investor6, Investor15
+Company511;$5;2021-06-08;India;Berlin;Healthcare;Investor11, Investor5
+Company512;$10;2021-01-16;Australia;Mumbai;FinTech;Investor20, Investor18, Investor3, Investor1, Investor10
+Company513;$8;2021-09-26;Australia;Beijing;Automotive;Investor15, Investor3, Investor13, Investor20
+Company514;$3;2021-10-12;Australia;Beijing;Technology;Investor12, Investor19, Investor16, Investor15, Investor20
+Company515;$3;2021-10-27;UK;Toronto;Technology;Investor15, Investor9, Investor10, Investor3, Investor12
+Company516;$9;2021-09-25;Germany;Beijing;Technology;Investor1, Investor12, Investor8, Investor16
+Company517;$3;2021-10-05;Germany;Beijing;Technology;Investor12, Investor1, Investor19, Investor18, Investor5
+Company518;$4;2021-11-20;Germany;London;Entertainment;Investor16, Investor11, Investor12
+Company519;$10;2021-05-03;Australia;Berlin;Entertainment;Investor5, Investor9, Investor8
+Company520;$2;2021-11-24;India;Toronto;FinTech;Investor1
+Company521;$10;2021-11-08;Germany;Toronto;Retail;Investor2, Investor7, Investor11, Investor9
+Company522;$4;2021-11-02;Australia;Mumbai;Retail;Investor5, Investor10
+Company523;$4;2021-08-16;UK;Mumbai;Entertainment;Investor8, Investor13, Investor11, Investor12, Investor19
+Company524;$3;2021-06-16;UK;London;Technology;Investor11, Investor8, Investor3, Investor16
+Company525;$6;2021-09-09;Canada;Berlin;Retail;Investor1, Investor7
+Company526;$8;2021-06-02;China;Sydney;Retail;Investor11
+Company527;$3;2021-08-08;India;New York;Entertainment;Investor9, Investor18, Investor16, Investor20, Investor11
+Company528;$6;2021-08-29;USA;London;Technology;Investor5
+Company529;$7;2021-05-15;China;Berlin;Retail;Investor7, Investor13, Investor18, Investor3
+Company530;$8;2021-05-26;UK;Mumbai;Retail;Investor7, Investor14, Investor17
+Company531;$6;2021-05-03;Australia;New York;Technology;Investor13, Investor17, Investor14, Investor7
+Company532;$9;2021-08-22;USA;Toronto;E-commerce;Investor2, Investor20, Investor17, Investor18
+Company533;$1;2021-08-05;UK;Berlin;Technology;Investor2, Investor14, Investor12, Investor17, Investor18
+Company534;$4;2021-06-06;Australia;Toronto;Automotive;Investor8
+Company535;$1;2021-03-17;China;London;Entertainment;Investor7, Investor13
+Company536;$7;2021-04-19;Canada;Berlin;Healthcare;Investor3, Investor5, Investor12, Investor16, Investor6
+Company537;$5;2021-03-22;Canada;Sydney;Entertainment;Investor15
+Company538;$2;2021-11-09;India;Berlin;Retail;Investor13, Investor10, Investor16, Investor2, Investor15
+Company539;$8;2021-03-13;Germany;Sydney;Retail;Investor9, Investor15, Investor18, Investor19
+Company540;$9;2021-02-19;China;London;Retail;Investor2
+Company541;$9;2021-03-21;India;New York;Healthcare;Investor9
+Company542;$5;2021-06-07;India;Toronto;Entertainment;Investor2, Investor11, Investor4, Investor12, Investor5
+Company543;$9;2021-11-16;USA;Berlin;Entertainment;Investor4, Investor3, Investor12, Investor7
+Company544;$9;2021-07-01;China;Sydney;E-commerce;Investor15
+Company545;$1;2021-03-16;USA;Berlin;E-commerce;Investor5
+Company546;$7;2021-06-13;India;London;Automotive;Investor1
+Company547;$7;2021-02-22;China;Berlin;Entertainment;Investor17, Investor1, Investor9, Investor16
+Company548;$7;2021-10-20;China;Sydney;Entertainment;Investor4, Investor16, Investor9, Investor11
+Company549;$7;2021-11-26;China;Toronto;FinTech;Investor7, Investor1, Investor14, Investor13, Investor20
+Company550;$8;2021-06-28;Canada;Berlin;Retail;Investor16, Investor11, Investor17, Investor1, Investor9
+Company551;$6;2021-12-08;USA;New York;Entertainment;Investor20, Investor15
+Company552;$7;2021-01-02;Canada;Beijing;Retail;Investor17, Investor15, Investor2
+Company553;$9;2021-10-18;India;Toronto;FinTech;Investor5, Investor3, Investor20
+Company554;$2;2021-05-15;Canada;Beijing;Healthcare;Investor1, Investor13, Investor20, Investor18
+Company555;$3;2021-09-11;China;New York;Automotive;Investor1, Investor19, Investor12, Investor15, Investor18
+Company556;$1;2021-10-04;Australia;Toronto;FinTech;Investor20
+Company557;$9;2021-12-23;India;New York;Retail;Investor15, Investor5, Investor1, Investor3
+Company558;$6;2021-04-05;UK;London;Retail;Investor3, Investor8, Investor20, Investor9, Investor19
+Company559;$7;2021-04-19;India;Beijing;E-commerce;Investor4, Investor17
+Company560;$6;2021-04-17;China;Toronto;Retail;Investor14
+Company561;$2;2021-04-15;India;London;Entertainment;Investor6, Investor17, Investor16, Investor8, Investor7
+Company562;$5;2021-07-16;UK;Berlin;Technology;Investor6, Investor12, Investor13, Investor4
+Company563;$4;2021-07-18;Australia;Sydney;Technology;Investor10, Investor5, Investor2, Investor18, Investor17
+Company564;$10;2021-04-15;India;Berlin;Retail;Investor11
+Company565;$10;2021-12-29;Australia;Toronto;Healthcare;Investor12
+Company566;$6;2021-04-21;Australia;New York;Retail;Investor13, Investor3, Investor11, Investor8, Investor18
+Company567;$10;2021-02-27;Germany;Sydney;E-commerce;Investor20, Investor6, Investor19, Investor14
+Company568;$5;2021-02-16;India;Sydney;Automotive;Investor9
+Company569;$10;2021-01-31;Germany;Toronto;Automotive;Investor6, Investor7, Investor8, Investor12
+Company570;$1;2021-02-17;Australia;Berlin;E-commerce;Investor19, Investor3, Investor15
+Company571;$3;2021-02-20;China;London;Retail;Investor19, Investor10, Investor13
+Company572;$8;2021-08-20;India;New York;FinTech;Investor2, Investor6, Investor9
+Company573;$2;2021-05-20;China;New York;Technology;Investor8, Investor9, Investor17
+Company574;$7;2021-12-19;India;London;Healthcare;Investor16, Investor2, Investor5, Investor3
+Company575;$10;2021-10-22;UK;Beijing;Entertainment;Investor16
+Company576;$2;2021-02-05;Australia;New York;Technology;Investor14, Investor3, Investor7, Investor2, Investor16
+Company577;$6;2021-03-31;Germany;London;Retail;Investor11
+Company578;$2;2021-04-09;China;Berlin;Retail;Investor5, Investor2, Investor8, Investor10, Investor20
+Company579;$9;2021-07-01;USA;New York;Technology;Investor5, Investor9, Investor11, Investor18, Investor20
+Company580;$2;2021-01-02;China;Beijing;Retail;Investor4
+Company581;$2;2021-03-15;USA;Sydney;FinTech;Investor15
+Company582;$10;2021-02-06;USA;Mumbai;Entertainment;Investor8, Investor14, Investor12, Investor16
+Company583;$3;2021-11-08;Germany;Sydney;Entertainment;Investor17, Investor14, Investor18, Investor12
+Company584;$5;2021-10-07;Germany;Mumbai;Entertainment;Investor12, Investor6
+Company585;$6;2021-05-02;China;Mumbai;Technology;Investor10
+Company586;$2;2021-02-03;Australia;Beijing;Healthcare;Investor9, Investor19, Investor14
+Company587;$4;2021-04-27;Canada;Sydney;Retail;Investor7
+Company588;$9;2021-11-01;Germany;London;Technology;Investor5, Investor4, Investor14
+Company589;$9;2021-03-31;China;Mumbai;Retail;Investor17, Investor16, Investor18, Investor13
+Company590;$7;2021-09-21;UK;Sydney;Healthcare;Investor18
+Company591;$4;2021-08-15;China;London;Entertainment;Investor19
+Company592;$1;2021-02-25;USA;Sydney;Healthcare;Investor12, Investor4, Investor6, Investor16, Investor1
+Company593;$6;2021-12-13;USA;Toronto;Healthcare;Investor6, Investor10, Investor5
+Company594;$7;2021-11-24;Canada;Mumbai;E-commerce;Investor17, Investor13
+Company595;$7;2021-08-11;Canada;Beijing;Technology;Investor16
+Company596;$7;2021-04-11;Germany;New York;E-commerce;Investor10, Investor3
+Company597;$5;2021-06-01;Germany;New York;FinTech;Investor19, Investor8, Investor12, Investor17, Investor2
+Company598;$8;2021-08-14;China;Sydney;E-commerce;Investor5, Investor8, Investor4
+Company599;$3;2021-03-16;Australia;Toronto;Retail;Investor17, Investor4
+Company600;$2;2021-10-26;China;New York;Retail;Investor18, Investor20, Investor1, Investor8, Investor19
+Company601;$6;2021-06-27;UK;Mumbai;E-commerce;Investor15, Investor20, Investor9, Investor19
+Company602;$3;2021-02-14;China;Berlin;Entertainment;Investor17, Investor2
+Company603;$10;2021-05-07;Germany;Mumbai;Healthcare;Investor14, Investor16, Investor15, Investor1, Investor17
+Company604;$5;2021-02-28;UK;Sydney;FinTech;Investor9
+Company605;$2;2021-03-18;China;New York;FinTech;Investor18
+Company606;$8;2021-01-06;Canada;Mumbai;E-commerce;Investor8, Investor6, Investor18
+Company607;$4;2021-04-22;Germany;Toronto;Automotive;Investor16, Investor3, Investor13
+Company608;$10;2021-09-11;Australia;Beijing;Healthcare;Investor3, Investor4, Investor5, Investor11, Investor7
+Company609;$6;2021-04-18;Germany;Mumbai;Retail;Investor14, Investor13
+Company610;$2;2021-01-22;Germany;Berlin;Entertainment;Investor11, Investor8, Investor10
+Company611;$10;2021-10-04;Canada;Mumbai;Entertainment;Investor19
+Company612;$10;2021-05-03;China;New York;Automotive;Investor16
+Company613;$2;2021-07-12;Australia;Sydney;FinTech;Investor15, Investor11, Investor18, Investor5, Investor13
+Company614;$5;2021-10-03;India;Sydney;Entertainment;Investor1, Investor18, Investor12, Investor9, Investor15
+Company615;$4;2021-01-07;Australia;Sydney;Healthcare;Investor4, Investor6, Investor20
+Company616;$9;2021-07-24;China;Toronto;Technology;Investor3, Investor10, Investor19, Investor6
+Company617;$2;2021-11-29;UK;Toronto;Healthcare;Investor18, Investor13, Investor17
+Company618;$4;2021-12-18;Canada;Toronto;E-commerce;Investor8, Investor16, Investor6
+Company619;$3;2021-11-18;UK;Toronto;Technology;Investor16, Investor17, Investor4
+Company620;$10;2021-02-12;Australia;Sydney;FinTech;Investor8, Investor9, Investor6, Investor18
+Company621;$10;2021-11-27;India;Beijing;Technology;Investor16, Investor2, Investor6, Investor18, Investor7
+Company622;$9;2021-05-01;Germany;New York;E-commerce;Investor20
+Company623;$10;2021-02-06;China;Mumbai;Entertainment;Investor10
+Company624;$8;2021-04-24;USA;London;Technology;Investor8, Investor14
+Company625;$7;2021-07-24;India;New York;E-commerce;Investor18, Investor17, Investor3, Investor7
+Company626;$3;2021-02-25;China;Toronto;Entertainment;Investor17
+Company627;$7;2021-06-25;Canada;Beijing;Healthcare;Investor16
+Company628;$7;2021-02-25;USA;Toronto;Automotive;Investor15, Investor19, Investor10
+Company629;$7;2021-02-16;Australia;Beijing;FinTech;Investor18, Investor12, Investor5, Investor13
+Company630;$8;2021-12-10;USA;Mumbai;Entertainment;Investor2, Investor1
+Company631;$9;2021-06-24;Australia;Toronto;Technology;Investor1
+Company632;$7;2021-12-22;USA;Toronto;Technology;Investor14, Investor6, Investor11, Investor7, Investor10
+Company633;$10;2021-11-30;Australia;Sydney;Retail;Investor7, Investor14, Investor15, Investor20
+Company634;$9;2021-06-21;Australia;Mumbai;Retail;Investor15, Investor19
+Company635;$1;2021-08-22;USA;Beijing;Technology;Investor6, Investor4, Investor10, Investor5, Investor17
+Company636;$8;2021-08-31;USA;Toronto;Technology;Investor3
+Company637;$5;2021-10-25;Australia;Sydney;Entertainment;Investor3, Investor14, Investor10, Investor5, Investor19
+Company638;$8;2021-08-15;India;Toronto;Entertainment;Investor4, Investor10, Investor11
+Company639;$6;2021-10-01;Germany;Sydney;E-commerce;Investor6, Investor20, Investor7, Investor17, Investor15
+Company640;$5;2021-01-12;India;Sydney;Automotive;Investor19, Investor16, Investor5
+Company641;$9;2021-09-16;Germany;Beijing;Healthcare;Investor6
+Company642;$3;2021-01-27;UK;Sydney;Retail;Investor12
+Company643;$5;2021-12-10;Germany;Sydney;FinTech;Investor8, Investor9
+Company644;$2;2021-05-02;China;Mumbai;Technology;Investor3, Investor8, Investor16
+Company645;$6;2021-03-09;Canada;Mumbai;E-commerce;Investor5, Investor9
+Company646;$5;2021-06-11;Germany;Toronto;FinTech;Investor7, Investor11, Investor16, Investor4
+Company647;$8;2021-05-25;Australia;Sydney;E-commerce;Investor11, Investor9
+Company648;$2;2021-02-04;USA;New York;Entertainment;Investor20, Investor8, Investor19, Investor17
+Company649;$1;2021-08-11;Canada;Toronto;Retail;Investor18, Investor17, Investor14, Investor11
+Company650;$3;2021-12-26;Germany;Sydney;E-commerce;Investor14, Investor1
+Company651;$4;2021-12-26;USA;New York;FinTech;Investor6, Investor5, Investor1
+Company652;$8;2021-07-15;China;London;Automotive;Investor11
+Company653;$7;2021-10-17;India;Mumbai;E-commerce;Investor2, Investor12, Investor13, Investor18
+Company654;$3;2021-07-16;Canada;Toronto;Technology;Investor17
+Company655;$5;2021-04-11;Canada;London;Healthcare;Investor5, Investor12
+Company656;$3;2021-05-11;Australia;New York;Healthcare;Investor1
+Company657;$2;2021-07-17;China;Sydney;Retail;Investor15, Investor14, Investor17
+Company658;$3;2021-03-01;China;Beijing;E-commerce;Investor11, Investor18, Investor8
+Company659;$10;2021-03-02;Germany;Mumbai;Retail;Investor4, Investor5, Investor16, Investor17
+Company660;$5;2021-09-29;Canada;New York;Healthcare;Investor16, Investor15, Investor5, Investor10
+Company661;$5;2021-09-29;USA;Berlin;Healthcare;Investor9, Investor11
+Company662;$4;2021-10-03;USA;Beijing;Technology;Investor16, Investor2, Investor6, Investor12, Investor4
+Company663;$4;2021-04-19;India;Sydney;Healthcare;Investor7, Investor14
+Company664;$3;2021-05-19;USA;Sydney;Entertainment;Investor2, Investor11, Investor5
+Company665;$10;2021-10-20;UK;London;FinTech;Investor14, Investor1, Investor9, Investor17, Investor19
+Company666;$2;2021-06-21;Australia;Toronto;Automotive;Investor7
+Company667;$2;2021-12-17;USA;Toronto;FinTech;Investor16, Investor8, Investor1, Investor2, Investor5
+Company668;$6;2021-05-10;China;Berlin;Technology;Investor14, Investor19, Investor11, Investor3
+Company669;$8;2021-07-24;China;London;Retail;Investor13, Investor1, Investor20, Investor4, Investor18
+Company670;$2;2021-04-05;Canada;Mumbai;Healthcare;Investor17
+Company671;$5;2021-02-26;UK;Beijing;Automotive;Investor20
+Company672;$10;2021-06-14;UK;New York;FinTech;Investor15, Investor9, Investor3, Investor13
+Company673;$8;2021-02-15;Germany;Sydney;E-commerce;Investor9, Investor10, Investor14, Investor4
+Company674;$9;2021-11-30;Canada;New York;Retail;Investor15, Investor1
+Company675;$5;2021-12-07;Germany;Beijing;Healthcare;Investor18, Investor13, Investor3
+Company676;$7;2021-04-15;Australia;Toronto;Retail;Investor4, Investor14, Investor20
+Company677;$7;2021-09-02;Canada;New York;Retail;Investor9, Investor16, Investor19
+Company678;$4;2021-12-30;Canada;Berlin;Automotive;Investor17, Investor15
+Company679;$5;2021-02-04;Germany;Beijing;Retail;Investor9, Investor10
+Company680;$6;2021-12-03;India;New York;E-commerce;Investor8, Investor20
+Company681;$5;2021-01-22;India;Toronto;E-commerce;Investor6, Investor20, Investor4
+Company682;$9;2021-10-05;India;Beijing;E-commerce;Investor2, Investor11, Investor1, Investor12, Investor9
+Company683;$1;2021-10-10;Australia;Berlin;Retail;Investor11, Investor15, Investor4, Investor19, Investor7
+Company684;$5;2021-04-15;India;Mumbai;Technology;Investor17, Investor1, Investor19
+Company685;$1;2021-12-10;UK;London;Automotive;Investor10, Investor20
+Company686;$3;2021-09-10;USA;Toronto;Retail;Investor6, Investor7
+Company687;$9;2021-04-09;Australia;New York;Technology;Investor16, Investor9
+Company688;$6;2021-01-15;China;London;Automotive;Investor17, Investor2, Investor19, Investor20
+Company689;$2;2021-02-09;Germany;Toronto;Retail;Investor5, Investor15, Investor4, Investor11, Investor18
+Company690;$3;2021-08-24;India;Beijing;Automotive;Investor15, Investor18, Investor13
+Company691;$4;2021-02-04;Germany;Toronto;Healthcare;Investor1
+Company692;$4;2021-07-06;Australia;Berlin;Healthcare;Investor16, Investor14, Investor20, Investor9
+Company693;$7;2021-05-04;Germany;Sydney;Entertainment;Investor5, Investor15, Investor4, Investor18, Investor16
+Company694;$9;2021-09-11;UK;Sydney;Retail;Investor18
+Company695;$9;2021-10-08;USA;New York;FinTech;Investor7, Investor15, Investor20, Investor6
+Company696;$3;2021-08-10;Canada;London;Entertainment;Investor14
+Company697;$2;2021-09-06;China;Mumbai;FinTech;Investor14, Investor8
+Company698;$3;2021-03-06;India;Mumbai;Retail;Investor16, Investor6, Investor19
+Company699;$6;2021-05-10;India;Beijing;Entertainment;Investor3, Investor8, Investor9, Investor6
+Company700;$5;2021-11-21;Australia;London;Technology;Investor6, Investor4, Investor20
+Company701;$5;2021-03-09;USA;Sydney;FinTech;Investor13, Investor14, Investor12, Investor9, Investor8
+Company702;$10;2021-09-13;USA;New York;Healthcare;Investor3, Investor4, Investor16, Investor18
+Company703;$9;2021-06-25;USA;New York;Entertainment;Investor6, Investor9
+Company704;$1;2021-10-25;Australia;Berlin;Technology;Investor16
+Company705;$8;2021-03-25;Germany;Berlin;E-commerce;Investor1, Investor13, Investor7, Investor17
+Company706;$5;2021-07-13;USA;Berlin;Technology;Investor6, Investor17, Investor7
+Company707;$2;2021-04-06;China;Beijing;Healthcare;Investor5, Investor6, Investor2, Investor3
+Company708;$3;2021-10-19;UK;Sydney;Retail;Investor18, Investor14, Investor6
+Company709;$8;2021-04-02;India;Sydney;E-commerce;Investor16
+Company710;$10;2021-04-06;China;Sydney;Healthcare;Investor14, Investor9, Investor11, Investor10, Investor5
+Company711;$3;2021-05-21;Germany;Berlin;Entertainment;Investor15
+Company712;$9;2021-12-22;UK;New York;Technology;Investor16
+Company713;$6;2021-03-29;India;New York;Entertainment;Investor17, Investor20, Investor10, Investor6
+Company714;$6;2021-12-03;UK;Sydney;E-commerce;Investor1, Investor9, Investor14
+Company715;$10;2021-11-22;Canada;Sydney;FinTech;Investor8, Investor5, Investor17
+Company716;$5;2021-06-11;Germany;Toronto;FinTech;Investor20, Investor4, Investor6
+Company717;$5;2021-07-10;UK;Berlin;Automotive;Investor8, Investor4, Investor12, Investor3
+Company718;$1;2021-12-27;UK;Sydney;Healthcare;Investor10, Investor20, Investor13, Investor16
+Company719;$4;2021-08-23;China;New York;Technology;Investor19, Investor3, Investor18
+Company720;$7;2021-09-18;Canada;Mumbai;Healthcare;Investor8
+Company721;$5;2021-09-11;India;Sydney;Automotive;Investor1, Investor3
+Company722;$5;2021-05-18;UK;Mumbai;FinTech;Investor8
+Company723;$7;2021-07-26;Germany;Berlin;Automotive;Investor2, Investor7, Investor14
+Company724;$8;2021-06-13;USA;New York;Technology;Investor2, Investor16
+Company725;$8;2021-10-02;Canada;Sydney;Automotive;Investor3
+Company726;$2;2021-02-23;China;New York;Healthcare;Investor14, Investor2, Investor15, Investor20
+Company727;$1;2021-08-24;UK;Mumbai;E-commerce;Investor4, Investor1
+Company728;$4;2021-07-26;Australia;Berlin;Retail;Investor4, Investor12, Investor6, Investor5, Investor2
+Company729;$10;2021-02-09;India;London;FinTech;Investor9, Investor16
+Company730;$8;2021-09-07;UK;Berlin;Healthcare;Investor19, Investor11, Investor17, Investor9, Investor20
+Company731;$3;2021-08-29;Canada;Toronto;Healthcare;Investor19, Investor20, Investor6, Investor10
+Company732;$6;2021-07-26;Canada;Beijing;Retail;Investor9, Investor18, Investor20, Investor3
+Company733;$7;2021-10-09;Canada;Sydney;Automotive;Investor18, Investor2, Investor5, Investor15
+Company734;$3;2021-06-07;USA;Beijing;Retail;Investor14, Investor5
+Company735;$9;2021-11-26;USA;Beijing;Technology;Investor16, Investor19, Investor11, Investor17
+Company736;$1;2021-01-22;Canada;Berlin;E-commerce;Investor11, Investor1
+Company737;$7;2021-09-29;China;Toronto;FinTech;Investor20
+Company738;$7;2021-02-24;China;Toronto;Healthcare;Investor4
+Company739;$10;2021-06-09;India;Toronto;Healthcare;Investor10, Investor1, Investor15, Investor18
+Company740;$7;2021-09-07;UK;Mumbai;Technology;Investor13, Investor2, Investor18, Investor12
+Company741;$8;2021-12-21;Germany;Sydney;Automotive;Investor1
+Company742;$5;2021-02-10;UK;Mumbai;Automotive;Investor16, Investor8, Investor3, Investor4, Investor20
+Company743;$10;2021-03-05;Australia;Toronto;Retail;Investor9, Investor6, Investor12, Investor4, Investor5
+Company744;$6;2021-07-05;USA;Beijing;E-commerce;Investor1, Investor10, Investor4
+Company745;$8;2021-07-27;UK;Toronto;Entertainment;Investor8, Investor11, Investor12, Investor10, Investor5
+Company746;$2;2021-12-12;Germany;Mumbai;E-commerce;Investor12
+Company747;$7;2021-10-12;India;Mumbai;FinTech;Investor3, Investor11, Investor9, Investor12, Investor5
+Company748;$5;2021-11-01;Canada;New York;Automotive;Investor9, Investor18, Investor11, Investor5
+Company749;$5;2021-10-29;UK;Toronto;Technology;Investor13, Investor19, Investor10, Investor12
+Company750;$1;2021-05-20;Germany;New York;Healthcare;Investor12, Investor15
+Company751;$1;2021-07-26;Germany;New York;Retail;Investor4, Investor9, Investor13, Investor6
+Company752;$3;2021-10-09;Australia;Toronto;Entertainment;Investor12, Investor20, Investor17, Investor10, Investor4
+Company753;$4;2021-06-30;USA;Mumbai;Healthcare;Investor3, Investor18, Investor2, Investor14, Investor5
+Company754;$3;2021-12-02;India;Sydney;E-commerce;Investor16, Investor8, Investor20, Investor7, Investor14
+Company755;$4;2021-03-31;China;Toronto;Healthcare;Investor10, Investor9, Investor3, Investor4, Investor11
+Company756;$7;2021-10-01;USA;Toronto;Healthcare;Investor13, Investor20, Investor15
+Company757;$1;2021-08-14;Germany;New York;Healthcare;Investor20, Investor1
+Company758;$9;2021-03-31;USA;Berlin;Technology;Investor5, Investor4, Investor17
+Company759;$5;2021-07-08;China;Toronto;Technology;Investor10, Investor20, Investor15, Investor2, Investor19
+Company760;$4;2021-07-04;Germany;Sydney;Healthcare;Investor4, Investor1, Investor12, Investor8
+Company761;$8;2021-04-20;India;Sydney;Automotive;Investor5, Investor16, Investor11, Investor9
+Company762;$4;2021-04-14;China;London;Entertainment;Investor17, Investor19
+Company763;$3;2021-03-27;China;London;Retail;Investor3, Investor9, Investor7
+Company764;$7;2021-12-04;India;London;Technology;Investor19
+Company765;$8;2021-05-01;Germany;New York;Healthcare;Investor6
+Company766;$1;2021-09-21;USA;New York;Technology;Investor6, Investor20, Investor5, Investor13, Investor2
+Company767;$2;2021-02-21;Canada;Sydney;FinTech;Investor10, Investor14, Investor15
+Company768;$4;2021-12-06;Germany;New York;FinTech;Investor3, Investor4, Investor2, Investor20, Investor9
+Company769;$7;2021-08-12;Canada;Berlin;Automotive;Investor11, Investor18
+Company770;$3;2021-08-28;UK;New York;Technology;Investor5, Investor6, Investor11, Investor17, Investor15
+Company771;$3;2021-03-08;India;New York;Entertainment;Investor11, Investor16
+Company772;$6;2021-02-01;India;Sydney;E-commerce;Investor8, Investor10
+Company773;$7;2021-02-13;UK;Toronto;Retail;Investor2, Investor13, Investor20, Investor19
+Company774;$9;2021-10-05;China;Mumbai;Entertainment;Investor14, Investor5, Investor15
+Company775;$7;2021-10-13;Canada;Beijing;Entertainment;Investor7, Investor16
+Company776;$7;2021-05-24;India;New York;FinTech;Investor11, Investor10, Investor16, Investor3, Investor9
+Company777;$4;2021-04-17;China;Toronto;Entertainment;Investor6
+Company778;$9;2021-09-13;Australia;Toronto;Automotive;Investor19, Investor11, Investor15
+Company779;$4;2021-09-27;Australia;New York;Entertainment;Investor18, Investor17, Investor6, Investor15, Investor12
+Company780;$7;2021-06-09;Germany;New York;Technology;Investor14
+Company781;$9;2021-10-29;Australia;Sydney;Retail;Investor16
+Company782;$3;2021-05-31;Australia;Mumbai;Entertainment;Investor13
+Company783;$7;2021-03-31;Germany;New York;FinTech;Investor11, Investor5, Investor6
+Company784;$1;2021-11-20;China;Berlin;Automotive;Investor20, Investor13, Investor17, Investor1, Investor10
+Company785;$2;2021-10-04;Germany;New York;Automotive;Investor1
+Company786;$2;2021-04-22;China;Berlin;Healthcare;Investor12, Investor13, Investor3
+Company787;$10;2021-08-24;India;Mumbai;Entertainment;Investor12, Investor13, Investor10, Investor8
+Company788;$3;2021-08-23;Canada;Mumbai;Technology;Investor6, Investor4
+Company789;$7;2021-07-10;USA;Toronto;Technology;Investor7, Investor12, Investor20, Investor4
+Company790;$7;2021-09-29;Canada;New York;Retail;Investor7, Investor6, Investor11, Investor20
+Company791;$8;2021-04-18;Australia;Beijing;Retail;Investor17, Investor12, Investor19, Investor2
+Company792;$7;2021-12-28;Canada;New York;Technology;Investor8
+Company793;$9;2021-10-01;China;Mumbai;Technology;Investor17, Investor20, Investor9, Investor6, Investor14
+Company794;$9;2021-03-15;India;London;Automotive;Investor18, Investor4, Investor1
+Company795;$10;2021-11-20;USA;Beijing;Healthcare;Investor20, Investor3, Investor18
+Company796;$1;2021-09-11;India;Beijing;Retail;Investor3
+Company797;$3;2021-02-15;Canada;Beijing;Retail;Investor16, Investor4, Investor8
+Company798;$3;2021-04-20;UK;New York;E-commerce;Investor10
+Company799;$9;2021-02-03;UK;Beijing;E-commerce;Investor18, Investor10
+Company800;$6;2021-05-11;Canada;Sydney;Healthcare;Investor12, Investor10
+Company801;$1;2021-06-22;Australia;Toronto;Entertainment;Investor2
+Company802;$5;2021-10-17;Germany;Sydney;FinTech;Investor14, Investor4, Investor16, Investor20, Investor13
+Company803;$2;2021-08-30;USA;London;Healthcare;Investor18, Investor14, Investor2
+Company804;$10;2021-10-17;China;New York;Retail;Investor5, Investor8, Investor20, Investor10, Investor1
+Company805;$6;2021-06-17;China;London;FinTech;Investor7, Investor19, Investor12, Investor3
+Company806;$7;2021-04-23;Germany;Toronto;Automotive;Investor20, Investor19, Investor18, Investor7, Investor1
+Company807;$8;2021-05-10;Australia;London;FinTech;Investor6, Investor2
+Company808;$8;2021-04-29;China;New York;Technology;Investor20
+Company809;$8;2021-12-08;China;Toronto;E-commerce;Investor13, Investor4, Investor19
+Company810;$4;2021-07-18;UK;New York;Technology;Investor12, Investor17, Investor10, Investor18
+Company811;$3;2021-11-26;Canada;New York;Technology;Investor1
+Company812;$5;2021-09-30;Germany;Berlin;Healthcare;Investor7, Investor5
+Company813;$9;2021-06-17;India;Mumbai;Healthcare;Investor14, Investor10, Investor8
+Company814;$2;2021-09-06;India;Berlin;Retail;Investor18, Investor10
+Company815;$5;2021-01-03;Germany;London;E-commerce;Investor11, Investor3, Investor10, Investor2
+Company816;$4;2021-01-13;UK;Sydney;Technology;Investor12, Investor20, Investor16
+Company817;$7;2021-05-10;India;Berlin;Retail;Investor7, Investor1, Investor8, Investor10, Investor13
+Company818;$4;2021-09-01;Australia;London;Retail;Investor18, Investor14, Investor8, Investor11, Investor3
+Company819;$2;2021-04-22;Australia;Mumbai;Healthcare;Investor11, Investor5, Investor3, Investor10
+Company820;$4;2021-04-18;China;Mumbai;Retail;Investor17, Investor19, Investor16, Investor18
+Company821;$7;2021-05-14;USA;Mumbai;Healthcare;Investor13
+Company822;$8;2021-11-21;UK;London;Entertainment;Investor15, Investor5, Investor7, Investor18
+Company823;$4;2021-08-17;UK;Mumbai;E-commerce;Investor6
+Company824;$1;2021-03-09;India;New York;FinTech;Investor16, Investor8, Investor1
+Company825;$8;2021-07-19;Germany;Mumbai;E-commerce;Investor14, Investor2, Investor15
+Company826;$6;2021-10-24;China;Sydney;Entertainment;Investor3, Investor14, Investor7
+Company827;$8;2021-09-15;USA;Beijing;Retail;Investor3, Investor9, Investor18, Investor4, Investor20
+Company828;$7;2021-08-19;UK;Mumbai;Technology;Investor20, Investor3, Investor6, Investor4, Investor9
+Company829;$4;2021-08-18;China;London;Healthcare;Investor16, Investor1
+Company830;$9;2021-01-25;China;Mumbai;Healthcare;Investor8, Investor18, Investor13, Investor11
+Company831;$8;2021-12-29;UK;Berlin;FinTech;Investor11
+Company832;$9;2021-04-02;China;Mumbai;E-commerce;Investor16, Investor19, Investor13, Investor4, Investor7
+Company833;$3;2021-11-24;China;London;E-commerce;Investor8, Investor11, Investor15, Investor13, Investor1
+Company834;$8;2021-08-18;China;Beijing;Entertainment;Investor20, Investor12, Investor16, Investor3, Investor19
+Company835;$4;2021-03-07;Germany;Mumbai;Automotive;Investor20
+Company836;$7;2021-05-21;UK;Sydney;FinTech;Investor6, Investor9
+Company837;$3;2021-11-10;UK;Berlin;Retail;Investor20, Investor4
+Company838;$3;2021-12-25;China;Toronto;Retail;Investor18
+Company839;$2;2021-09-25;Australia;London;E-commerce;Investor5, Investor16, Investor14, Investor19, Investor11
+Company840;$10;2021-11-20;Australia;Berlin;E-commerce;Investor7, Investor9
+Company841;$5;2021-02-27;UK;Sydney;Healthcare;Investor6, Investor7
+Company842;$3;2021-09-09;Canada;Toronto;FinTech;Investor16, Investor18, Investor10, Investor20
+Company843;$3;2021-04-12;Canada;Beijing;Entertainment;Investor12
+Company844;$7;2021-10-04;UK;Beijing;Retail;Investor18, Investor20, Investor6, Investor3, Investor4
+Company845;$7;2021-02-05;Australia;London;Automotive;Investor3, Investor20, Investor10, Investor6, Investor17
+Company846;$4;2021-04-26;Germany;New York;Automotive;Investor16, Investor9, Investor3
+Company847;$7;2021-07-12;Australia;Sydney;FinTech;Investor3, Investor7, Investor9, Investor12
+Company848;$9;2021-10-05;Australia;London;FinTech;Investor1, Investor19
+Company849;$1;2021-04-12;Germany;Mumbai;Retail;Investor14, Investor7
+Company850;$10;2021-11-17;UK;London;Retail;Investor4, Investor20, Investor13, Investor2, Investor1
+Company851;$9;2021-10-10;India;Berlin;E-commerce;Investor19, Investor10
+Company852;$10;2021-10-22;China;London;Retail;Investor6, Investor10, Investor3
+Company853;$6;2021-06-07;UK;Beijing;Automotive;Investor20, Investor14
+Company854;$10;2021-09-25;UK;Berlin;E-commerce;Investor14, Investor16, Investor1
+Company855;$6;2021-10-23;Germany;Sydney;Automotive;Investor18
+Company856;$3;2021-09-03;UK;London;E-commerce;Investor10, Investor14
+Company857;$10;2021-06-25;UK;New York;Healthcare;Investor17, Investor15, Investor16, Investor11
+Company858;$2;2021-11-23;China;Berlin;Entertainment;Investor6, Investor20, Investor8, Investor7
+Company859;$10;2021-11-27;China;Mumbai;Entertainment;Investor3, Investor20, Investor8
+Company860;$1;2021-05-31;Germany;Mumbai;Automotive;Investor11, Investor12, Investor14, Investor16, Investor9
+Company861;$3;2021-10-17;Canada;Beijing;E-commerce;Investor11, Investor8, Investor9, Investor19
+Company862;$6;2021-06-18;Canada;Sydney;Entertainment;Investor10, Investor18
+Company863;$1;2021-04-28;UK;Berlin;Automotive;Investor17, Investor19
+Company864;$8;2021-04-21;USA;Beijing;FinTech;Investor7, Investor5, Investor20, Investor6, Investor17
+Company865;$8;2021-04-09;Australia;London;Technology;Investor13, Investor2
+Company866;$1;2021-04-24;Germany;Toronto;Technology;Investor13, Investor20, Investor11
+Company867;$2;2021-05-04;China;New York;Retail;Investor18, Investor15, Investor16
+Company868;$2;2021-11-25;Germany;New York;Technology;Investor15, Investor5
+Company869;$2;2021-03-07;UK;Beijing;Retail;Investor19, Investor3, Investor15, Investor17
+Company870;$3;2021-07-18;Australia;Berlin;E-commerce;Investor1, Investor6, Investor18, Investor5
+Company871;$4;2021-03-02;UK;Mumbai;Entertainment;Investor5, Investor20, Investor8, Investor19
+Company872;$1;2021-04-27;UK;New York;Entertainment;Investor15
+Company873;$1;2021-09-22;UK;Berlin;Technology;Investor12
+Company874;$7;2021-03-07;India;New York;FinTech;Investor14, Investor4, Investor11
+Company875;$3;2021-06-30;India;Berlin;Retail;Investor13, Investor6, Investor2, Investor7, Investor1
+Company876;$4;2021-03-31;China;Berlin;Healthcare;Investor1, Investor11, Investor20, Investor15
+Company877;$4;2021-03-27;Australia;Sydney;FinTech;Investor4, Investor11, Investor6, Investor10, Investor8
+Company878;$6;2021-05-30;Germany;Beijing;FinTech;Investor14, Investor20
+Company879;$1;2021-12-08;Germany;Mumbai;Retail;Investor10, Investor13, Investor9, Investor12, Investor3
+Company880;$2;2021-05-05;UK;Sydney;Technology;Investor7, Investor3, Investor13
+Company881;$7;2021-01-12;India;New York;Retail;Investor16, Investor2, Investor11, Investor19, Investor10
+Company882;$10;2021-11-27;UK;Sydney;Technology;Investor13
+Company883;$3;2021-09-22;USA;Toronto;FinTech;Investor2, Investor18
+Company884;$6;2021-11-07;Germany;Berlin;Technology;Investor10
+Company885;$7;2021-06-19;India;Berlin;Automotive;Investor9, Investor7
+Company886;$2;2021-02-13;USA;Mumbai;Automotive;Investor14, Investor18, Investor19, Investor5
+Company887;$7;2021-03-11;India;Berlin;Retail;Investor4
+Company888;$7;2021-10-12;UK;Berlin;Technology;Investor19, Investor5, Investor14
+Company889;$2;2021-06-26;USA;Mumbai;Entertainment;Investor9, Investor15, Investor12, Investor20, Investor5
+Company890;$1;2021-05-05;USA;Berlin;FinTech;Investor14
+Company891;$10;2021-06-27;Germany;London;E-commerce;Investor17
+Company892;$7;2021-01-02;China;Toronto;FinTech;Investor11, Investor3
+Company893;$1;2021-02-14;UK;Beijing;Technology;Investor10, Investor7, Investor11, Investor1
+Company894;$9;2021-01-02;India;Sydney;Automotive;Investor1
+Company895;$6;2021-12-19;Canada;Toronto;E-commerce;Investor16, Investor17, Investor7
+Company896;$2;2021-11-05;Australia;Berlin;Healthcare;Investor19, Investor16, Investor5, Investor13
+Company897;$4;2021-05-17;Germany;Toronto;Healthcare;Investor12, Investor11, Investor5, Investor20, Investor8
+Company898;$9;2021-10-06;Australia;Sydney;E-commerce;Investor6, Investor8, Investor5, Investor16
+Company899;$4;2021-03-19;UK;New York;Technology;Investor10, Investor3, Investor6, Investor11
+Company900;$10;2021-02-26;UK;Beijing;Technology;Investor7, Investor17, Investor6, Investor9, Investor10
+Company901;$3;2021-06-20;UK;Mumbai;Retail;Investor3, Investor20, Investor9
+Company902;$8;2021-09-29;India;New York;Automotive;Investor16
+Company903;$9;2021-01-02;China;Berlin;Entertainment;Investor15
+Company904;$9;2021-02-11;Germany;Toronto;Technology;Investor17, Investor4
+Company905;$5;2021-05-14;Australia;Sydney;Healthcare;Investor10, Investor8, Investor17
+Company906;$9;2021-08-15;Germany;Berlin;FinTech;Investor4, Investor2, Investor13
+Company907;$3;2021-05-25;China;New York;E-commerce;Investor8, Investor1, Investor6, Investor9, Investor18
+Company908;$5;2021-04-16;UK;Toronto;Retail;Investor19, Investor14, Investor8, Investor18
+Company909;$6;2021-01-20;Australia;New York;FinTech;Investor8, Investor16, Investor20, Investor15, Investor2
+Company910;$2;2021-07-23;USA;Sydney;Entertainment;Investor1, Investor4, Investor10
+Company911;$5;2021-07-05;China;Berlin;E-commerce;Investor19, Investor17, Investor1, Investor14
+Company912;$8;2021-12-04;China;Beijing;Technology;Investor12, Investor11, Investor8
+Company913;$7;2021-05-06;Australia;Sydney;Entertainment;Investor1, Investor7, Investor6
+Company914;$9;2021-07-07;China;Mumbai;FinTech;Investor12, Investor8, Investor13, Investor16, Investor19
+Company915;$6;2021-05-14;China;Beijing;Technology;Investor10, Investor2, Investor15, Investor3
+Company916;$2;2021-05-09;Canada;Toronto;E-commerce;Investor17, Investor5
+Company917;$9;2021-01-23;Canada;New York;Technology;Investor13, Investor17, Investor12, Investor11
+Company918;$2;2021-07-05;USA;Toronto;Automotive;Investor13, Investor10, Investor12, Investor7
+Company919;$6;2021-09-08;China;New York;Technology;Investor15, Investor11, Investor9, Investor20, Investor18
+Company920;$3;2021-01-05;Germany;Mumbai;Automotive;Investor6, Investor3
+Company921;$10;2021-12-14;Australia;Beijing;E-commerce;Investor9, Investor15, Investor6, Investor2, Investor16
+Company922;$5;2021-04-25;Germany;New York;Technology;Investor13, Investor10
+Company923;$10;2021-08-18;USA;Sydney;Technology;Investor13, Investor15, Investor6, Investor1
+Company924;$7;2021-02-28;Germany;Mumbai;Retail;Investor19, Investor8, Investor13
+Company925;$3;2021-09-29;USA;New York;E-commerce;Investor4
+Company926;$9;2021-07-27;Germany;Mumbai;Healthcare;Investor11
+Company927;$8;2021-11-08;India;Sydney;Retail;Investor19, Investor9, Investor3
+Company928;$5;2021-03-11;China;Mumbai;Automotive;Investor19, Investor17, Investor1, Investor8, Investor13
+Company929;$6;2021-04-09;Australia;Mumbai;Healthcare;Investor19, Investor15, Investor11, Investor16
+Company930;$9;2021-08-23;Germany;Toronto;Technology;Investor12, Investor13, Investor20, Investor2, Investor4
+Company931;$6;2021-12-29;Germany;Berlin;FinTech;Investor16
+Company932;$9;2021-07-20;UK;New York;E-commerce;Investor15, Investor20, Investor14, Investor11, Investor10
+Company933;$2;2021-10-04;USA;Toronto;Entertainment;Investor11, Investor12, Investor20, Investor17
+Company934;$5;2021-07-06;Australia;Beijing;E-commerce;Investor20, Investor2, Investor17
+Company935;$2;2021-12-18;Germany;Sydney;FinTech;Investor17
+Company936;$7;2021-12-09;Canada;Mumbai;Retail;Investor17
+Company937;$1;2021-04-10;India;Beijing;E-commerce;Investor12, Investor13, Investor6, Investor19
+Company938;$1;2021-09-09;Germany;Sydney;Entertainment;Investor12, Investor14, Investor6, Investor8, Investor13
+Company939;$10;2021-08-30;UK;Berlin;Healthcare;Investor20, Investor14, Investor10, Investor4
+Company940;$1;2021-05-01;Australia;Toronto;Technology;Investor10
+Company941;$4;2021-11-14;Australia;New York;E-commerce;Investor18
+Company942;$7;2021-11-04;UK;Beijing;FinTech;Investor13
+Company943;$2;2021-03-27;Australia;London;Healthcare;Investor1, Investor17, Investor18, Investor2, Investor13
+Company944;$2;2021-08-12;UK;Toronto;Retail;Investor15, Investor7
+Company945;$1;2021-03-20;Canada;London;Technology;Investor4, Investor7, Investor6
+Company946;$8;2021-09-30;UK;Berlin;E-commerce;Investor14
+Company947;$10;2021-05-01;UK;Beijing;E-commerce;Investor1
+Company948;$4;2021-06-06;China;Sydney;Entertainment;Investor2, Investor20, Investor4, Investor15
+Company949;$6;2021-10-21;Canada;Sydney;E-commerce;Investor13, Investor2, Investor7, Investor9
+Company950;$8;2021-02-25;Germany;Berlin;Healthcare;Investor15
+Company951;$4;2021-11-18;Canada;Mumbai;Healthcare;Investor6, Investor17, Investor10
+Company952;$5;2021-04-29;Canada;New York;FinTech;Investor13, Investor9, Investor10
+Company953;$5;2021-03-29;Canada;Berlin;Healthcare;Investor19, Investor13, Investor11
+Company954;$9;2021-04-01;Germany;New York;Retail;Investor19, Investor2
+Company955;$6;2021-02-16;India;Toronto;FinTech;Investor6, Investor2
+Company956;$9;2021-08-01;Canada;Toronto;Retail;Investor5, Investor14, Investor10, Investor15, Investor7
+Company957;$2;2021-07-06;USA;Berlin;E-commerce;Investor19, Investor13, Investor5, Investor20, Investor16
+Company958;$8;2021-05-31;China;Mumbai;Healthcare;Investor3, Investor5, Investor15
+Company959;$7;2021-04-04;USA;Berlin;E-commerce;Investor3
+Company960;$4;2021-09-28;Canada;Berlin;Retail;Investor14
+Company961;$8;2021-10-17;Germany;Berlin;Entertainment;Investor15, Investor16, Investor20
+Company962;$1;2021-06-04;China;Berlin;Healthcare;Investor17, Investor10, Investor13, Investor16
+Company963;$7;2021-02-26;India;New York;FinTech;Investor2
+Company964;$8;2021-09-25;India;Berlin;E-commerce;Investor20
+Company965;$5;2021-09-04;Australia;Berlin;FinTech;Investor18, Investor17, Investor11, Investor2
+Company966;$7;2021-04-07;China;Beijing;FinTech;Investor12, Investor1
+Company967;$8;2021-05-14;USA;New York;Automotive;Investor4, Investor12
+Company968;$10;2021-08-26;Canada;Mumbai;Automotive;Investor14, Investor8, Investor16
+Company969;$7;2021-02-05;Germany;Mumbai;Automotive;Investor18, Investor17, Investor5, Investor6, Investor14
+Company970;$6;2021-12-05;Germany;Mumbai;Technology;Investor16, Investor6, Investor15, Investor8, Investor17
+Company971;$7;2021-01-06;Canada;Beijing;Retail;Investor7, Investor17, Investor10, Investor4
+Company972;$10;2021-04-17;Germany;Toronto;FinTech;Investor15, Investor13, Investor7, Investor19
+Company973;$3;2021-06-27;India;Sydney;FinTech;Investor19, Investor3
+Company974;$3;2021-01-31;Canada;Beijing;Healthcare;Investor19, Investor16, Investor10
+Company975;$5;2021-02-03;Canada;Sydney;Automotive;Investor14, Investor6, Investor11
+Company976;$6;2021-10-12;Australia;Berlin;FinTech;Investor1, Investor18, Investor7, Investor10, Investor5
+Company977;$4;2021-02-14;China;Mumbai;FinTech;Investor15
+Company978;$9;2021-03-18;Canada;Toronto;Automotive;Investor19, Investor7
+Company979;$6;2021-12-22;Australia;London;E-commerce;Investor2, Investor9
+Company980;$2;2021-01-11;Australia;Berlin;Automotive;Investor10, Investor11, Investor19, Investor5
+Company981;$3;2021-07-09;India;Sydney;FinTech;Investor15, Investor18, Investor11
+Company982;$3;2021-01-08;India;Mumbai;Technology;Investor13
+Company983;$5;2021-07-14;Canada;Beijing;Healthcare;Investor10
+Company984;$8;2021-03-21;Canada;Toronto;Technology;Investor10, Investor6, Investor14, Investor1, Investor13
+Company985;$7;2021-06-11;USA;Mumbai;FinTech;Investor11, Investor9, Investor14
+Company986;$5;2021-03-04;China;Beijing;Healthcare;Investor2, Investor4, Investor12
+Company987;$7;2021-02-27;USA;Sydney;Retail;Investor20, Investor2, Investor16, Investor13, Investor14
+Company988;$8;2021-07-27;USA;Berlin;E-commerce;Investor1, Investor20
+Company989;$8;2021-06-26;USA;Sydney;Entertainment;Investor17, Investor13, Investor1
+Company990;$4;2021-08-25;Canada;Beijing;E-commerce;Investor1, Investor15
+Company991;$2;2021-06-07;USA;Berlin;Entertainment;Investor2, Investor10, Investor9, Investor12
+Company992;$3;2021-02-27;Germany;Sydney;Entertainment;Investor11, Investor3, Investor4, Investor19, Investor17
+Company993;$9;2021-04-01;USA;Sydney;FinTech;Investor20, Investor18, Investor8, Investor16, Investor9
+Company994;$6;2021-09-01;USA;Berlin;Automotive;Investor17, Investor3, Investor15, Investor4
+Company995;$2;2021-06-01;India;New York;E-commerce;Investor4, Investor6
+Company996;$10;2021-02-13;China;London;Healthcare;Investor8, Investor14, Investor18
+Company997;$1;2021-12-30;Canada;Berlin;Retail;Investor15
+Company998;$8;2021-03-12;Australia;Mumbai;Healthcare;Investor11
+Company999;$9;2021-01-13;Canada;Toronto;Technology;Investor13, Investor20, Investor12, Investor8, Investor10
+Company1000;$5;2021-02-26;Germany;New York;Entertainment;Investor1

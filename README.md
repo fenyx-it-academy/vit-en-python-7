@@ -24,11 +24,11 @@ How would you find and display the average valuation of the companies that origi
 
 Please note that you cannot make any assumptions on the number of lines in the given dataset.
 
-Hint: After splitting the entire line, you can access the city name using line[4] since it is located in the fourth position, considering that Python uses zero-based indexing. Similarly, to retrieve the valuation, you use int(line[1][1:]), which involves converting the second element of the split line to an integer. The notation [1][1:] is used to extract a portion of the string, excluding the first character.
+Hint: After splitting the entire line, you can access the city name using `line[4]` since it is located in the fourth position, considering that Python uses zero-based indexing. Similarly, to retrieve the valuation, you use `int(line[1][1:])`, which involves converting the second element of the split line to an integer. The notation `[1][1:]` is used to extract a portion of the string, excluding the first character.
 
 Pseudo code:
 
-Retrieve a city name from the user, then read the related document named 'unicorns2021.txt.' Initialize temporary variables, 'linecounter' and 'valuation,' both set to zero.
+Retrieve a city name from the user, then read the related document named 'unicorns2021.txt.' Initialize temporary variables, 'linecounter' and 'valuation' both set to zero.
 
 Perform a for loop to iterate through all the lines in the document.
 
